@@ -10,7 +10,10 @@ OpenAI Deep Research (1+1 h research) [CHAT RAW](https://chatgpt.com/s/dr_68150f
 DOWNLOAD .WAV IN REPO OR LISTEN HERE TO SWEDISH PODCAST (AI GENERATED) ON THE REPORT 
 [PODCAST](https://youtu.be/LmIoK-tPHKI)
 
-## 🧠 Core Functions for an AI-Driven Microstate
+## Architecture
+Core problem is identity and trust or reputation-system.
+
+### 🧠 Core Functions for an AI-Driven Microstate
 
 | **Domain**               | **Function Needed**                            | **Automation Potential** | **AI Technologies Needed**                                    |
 |--------------------------|------------------------------------------------|---------------------------|----------------------------------------------------------------|

@@ -38,6 +38,6 @@ https://chatgpt.com/s/dr_68150fe331e88191b3a60213bb110089
 | **Governance Oversight**| Audit trail generation & transparency tools    | High                      | Explainable AI (XAI), blockchain logs                          |
 |                          | Ethical compliance monitoring                  | Medium                    | AI bias detection, fairness analysis                           |
 |                          | Human-in-the-loop escalation systems           | Required                  | Workflow routing, override mechanisms                          |
-![arch1.png]()
+![Architecture 1](./arch1.png)
 
 ## 

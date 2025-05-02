@@ -42,9 +42,6 @@ https://chatgpt.com/s/dr_68150fe331e88191b3a60213bb110089
 
 ![Architecture 1](./arch1.png)
 
-<audio controls>
-  <source src="AI i Åländsk Förvaltning.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+DOWNLOAD .WAV IN REPO OR LISTEN HERE TO SWEDISH PODCAST (AI GENERATED) ON THE REPORT ![PODCAST](https://youtu.be/LmIoK-tPHKI)
 
 ## 

@@ -5,6 +5,8 @@ A study of how to possibly create the first AI micro state originating from Åla
 If one were to build a state from the ground up with todays AI support, how would it look like?
 
 ## Background Research
+DOWNLOAD .WAV IN REPO OR LISTEN HERE TO SWEDISH PODCAST (AI GENERATED) ON THE REPORT 
+[PODCAST](https://youtu.be/LmIoK-tPHKI)
 https://chatgpt.com/s/dr_68150fe331e88191b3a60213bb110089 
 ## 🧠 Core Functions for an AI-Driven Microstate
 
@@ -42,7 +44,6 @@ https://chatgpt.com/s/dr_68150fe331e88191b3a60213bb110089
 
 ![Architecture 1](./arch1.png)
 
-DOWNLOAD .WAV IN REPO OR LISTEN HERE TO SWEDISH PODCAST (AI GENERATED) ON THE REPORT 
-[PODCAST](https://youtu.be/LmIoK-tPHKI)
+
 
 ## 

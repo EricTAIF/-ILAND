@@ -13,6 +13,9 @@ DOWNLOAD .WAV IN REPO OR LISTEN HERE TO SWEDISH PODCAST (AI GENERATED) ON THE RE
 ## Architecture
 Core problem is identity and trust or reputation-system.
 
+### Decentralized Identity Architecture 
+[Architecture2](arch2.png)
+
 ### 🧠 Core Functions for an AI-Driven Microstate
 
 | **Domain**               | **Function Needed**                            | **Automation Potential** | **AI Technologies Needed**                                    |

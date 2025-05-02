@@ -1,4 +1,4 @@
-# ÅILAND
+# [ÅILAND](https://ai-cosmos-breathe-flow.lovable.app)
 A study of how to possibly create the first AI micro state originating from Åland.
 
 ## Question

@@ -1,0 +1,170 @@
+{
+  "class": "dataset",
+  "label": "Daghemsverksamhet efter År, Kommun och Uppgift",
+  "source": "Ålands statistik- och utredningsbyrå (ÅSUB)",
+  "updated": "9999-12-31T21:59:59Z",
+  "id": [
+    "År",
+    "Kommun",
+    "Uppgift"
+  ],
+  "size": [
+    1,
+    17,
+    4
+  ],
+  "dimension": {
+    "År": {
+      "label": "År",
+      "category": {
+        "index": {
+          "2023": 0
+        },
+        "label": {
+          "2023": "2023"
+        }
+      }
+    },
+    "Kommun": {
+      "label": "Kommun",
+      "category": {
+        "index": {
+          "MK21": 0,
+          "035": 1,
+          "043": 2,
+          "060": 3,
+          "062": 4,
+          "065": 5,
+          "076": 6,
+          "170": 7,
+          "295": 8,
+          "318": 9,
+          "417": 10,
+          "438": 11,
+          "478": 12,
+          "736": 13,
+          "766": 14,
+          "771": 15,
+          "941": 16
+        },
+        "label": {
+          "MK21": "Hela Åland",
+          "035": "Brändö",
+          "043": "Eckerö",
+          "060": "Finström",
+          "062": "Föglö",
+          "065": "Geta",
+          "076": "Hammarland",
+          "170": "Jomala",
+          "295": "Kumlinge",
+          "318": "Kökar",
+          "417": "Lemland",
+          "438": "Lumparland",
+          "478": "Mariehamn",
+          "736": "Saltvik",
+          "766": "Sottunga",
+          "771": "Sund",
+          "941": "Vårdö"
+        }
+      }
+    },
+    "Uppgift": {
+      "label": "Uppgift",
+      "category": {
+        "index": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3
+        },
+        "label": {
+          "0": "Antal barn",
+          "1": "Antal daghem",
+          "2": "Antal avdelningar",
+          "3": "Genomsnittligt antal barn per avdelning"
+        }
+      }
+    }
+  },
+  "value": [
+    1476,
+    37,
+    97,
+    15.2,
+    10,
+    1,
+    2,
+    5,
+    45,
+    1,
+    3,
+    15,
+    118,
+    3,
+    7,
+    16.9,
+    28,
+    1,
+    1,
+    28,
+    29,
+    1,
+    2,
+    14.5,
+    81,
+    2,
+    6,
+    13.5,
+    387,
+    6,
+    21,
+    18.4,
+    13,
+    1,
+    1,
+    13,
+    5,
+    1,
+    1,
+    5,
+    135,
+    4,
+    10,
+    13.5,
+    15,
+    1,
+    1,
+    15,
+    462,
+    10,
+    30,
+    15.4,
+    84,
+    2,
+    6,
+    14,
+    1,
+    1,
+    1,
+    1,
+    36,
+    1,
+    3,
+    12,
+    27,
+    1,
+    2,
+    13.5
+  ],
+  "role": {
+    "time": [
+      "År"
+    ]
+  },
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 0
+    }
+  }
+}

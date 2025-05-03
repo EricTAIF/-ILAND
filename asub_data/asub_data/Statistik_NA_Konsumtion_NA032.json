@@ -1,0 +1,77 @@
+{
+  "class": "dataset",
+  "label": "Hushållens genomsnittliga konsumtion via Internet samt postorder år 2006 efter rangordning/varugrupp",
+  "source": "Ålands statistik- och utredningsbyrå (ÅSUB)",
+  "updated": "2008-07-30T06:00:00Z",
+  "id": [
+    "rangordning/varugrupp"
+  ],
+  "size": [
+    11
+  ],
+  "dimension": {
+    "rangordning/varugrupp": {
+      "label": "rangordning/varugrupp",
+      "category": {
+        "index": {
+          "SS": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10
+        },
+        "label": {
+          "SS": "Totalt",
+          "1": "1 Kläder och skor",
+          "2": "2 Hushållsartiklar, elektriska artiklar, möbler och inredning",
+          "3": "3 Transportkostnader (inkl. flyg, paketresor, taxi, färjor, bensin etc.)",
+          "4": "4 Andra varor, bl.a hobby-och sportartiklar, leksaker",
+          "5": "5 Tidningar, böcker och musik",
+          "6": "6 Bilar, motorcyklar och båtar (köp - inte hyrning)",
+          "7": "7 Livsmedel",
+          "8": "8 Andra tjänster (te.x. hälsotjänster, kultur, underhållning, frisör, o.d.)",
+          "9": "9 Cigaretter och alkohol",
+          "10": "10 Övernattning, cafeer och restauranger"
+        }
+      }
+    }
+  },
+  "value": [
+    439.8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "status": {
+    "1": "..",
+    "2": "..",
+    "3": "..",
+    "4": "..",
+    "5": "..",
+    "6": "..",
+    "7": "..",
+    "8": "..",
+    "9": "..",
+    "10": ".."
+  },
+  "role": {},
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 1
+    }
+  }
+}

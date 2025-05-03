@@ -1,0 +1,102 @@
+{
+  "class": "dataset",
+  "label": "Livförsäkringsbolags nyckeltal, 1 000 EUR efter nyckeltal och år",
+  "source": "Finansinspektionen",
+  "updated": "2022-08-02T06:00:00Z",
+  "id": [
+    "nyckeltal",
+    "år"
+  ],
+  "size": [
+    7,
+    5
+  ],
+  "dimension": {
+    "nyckeltal": {
+      "label": "nyckeltal",
+      "category": {
+        "index": {
+          "Premieinkomst (egen andel)": 0,
+          "Ersättningskostnader (egen andel)": 1,
+          "Driftskostnader": 2,
+          "Försäkringstekniskt resultat/bidrag": 3,
+          "Intäkter av placeringsverksamheten": 4,
+          "Kostnader för placeringsverksamheten": 5,
+          "Räkenskapsperiodens vinst (förlust)": 6
+        },
+        "label": {
+          "Premieinkomst (egen andel)": "Premieinkomst (egen andel)",
+          "Ersättningskostnader (egen andel)": "Ersättningskostnader (egen andel)",
+          "Driftskostnader": "Driftskostnader",
+          "Försäkringstekniskt resultat/bidrag": "Försäkringstekniskt resultat/bidrag",
+          "Intäkter av placeringsverksamheten": "Intäkter av placeringsverksamheten",
+          "Kostnader för placeringsverksamheten": "Kostnader för placeringsverksamheten",
+          "Räkenskapsperiodens vinst (förlust)": "Räkenskapsperiodens vinst (förlust)"
+        }
+      }
+    },
+    "år": {
+      "label": "år",
+      "category": {
+        "index": {
+          "2016": 0,
+          "2017": 1,
+          "2018": 2,
+          "2019": 3,
+          "2020": 4
+        },
+        "label": {
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020"
+        }
+      }
+    }
+  },
+  "value": [
+    6058,
+    5397,
+    5338,
+    4496,
+    1915,
+    -9888,
+    -6009,
+    -9976,
+    -8017,
+    2576,
+    -843,
+    -697,
+    -1316,
+    -1121,
+    -575,
+    2067,
+    5980,
+    2301,
+    2393,
+    12225,
+    8892,
+    9121,
+    9274,
+    6525,
+    8718,
+    -4663,
+    -2651,
+    -6147,
+    -3209,
+    -8702,
+    1696,
+    4792,
+    2130,
+    1902,
+    9917
+  ],
+  "role": {},
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 0
+    }
+  }
+}

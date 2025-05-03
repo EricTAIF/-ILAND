@@ -1,0 +1,3256 @@
+{
+  "Statistik": {
+    "AR": {
+      "Arbetslöshet": {
+        "AR001.px": {
+          "title": "Arbetslösa arbetssökande efter månad, kön och arbetslöshetsmått",
+          "variable_count": 3,
+          "path": "Statistik/AR/Arbetslöshet/AR001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR002.px": {
+          "title": "Arbetssökande efter år, månad, åldersgrupp, kön, utbildningsnivå och arbetsmarknadsstatus",
+          "variable_count": 6,
+          "path": "Statistik/AR/Arbetslöshet/AR002.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR003.px": {
+          "title": "Tillsatta platser efter år, månad, ISCO-yrkesgrupp och tillsättningstid",
+          "variable_count": 4,
+          "path": "Statistik/AR/Arbetslöshet/AR003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR003b.px": {
+          "title": "Lediga platser efter år, månad och uppgift",
+          "variable_count": 3,
+          "path": "Statistik/AR/Arbetslöshet/AR003b.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR004.px": {
+          "title": "Arbetslösa arbetssökande efter år, månad, arbetslöshetsmått och kommun",
+          "variable_count": 4,
+          "path": "Statistik/AR/Arbetslöshet/AR004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR004b.px": {
+          "title": "Arbetslösa arbetssökande efter år, månad, region, arbetslöshetsmått, åldersgrupp och kön",
+          "variable_count": 6,
+          "path": "Statistik/AR/Arbetslöshet/AR004b.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR005.px": {
+          "title": "Arbetslösa och relativa arbetslöshetstal efter år, arbetslöshetsmått, antal och kön",
+          "variable_count": 4,
+          "path": "Statistik/AR/Arbetslöshet/AR005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR019.px": {
+          "title": "Befolkning i arbetsför ålder (18-64 år) som varit arbetslösa eller permitterade under året efter år, information och kön",
+          "variable_count": 3,
+          "path": "Statistik/AR/Arbetslöshet/AR019.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Huvudsaklig verksamhet": {
+        "AR013.px": {
+          "title": "Befolkningen efter år, kommun, huvudsaklig verksamhet, kön och åldersgrupp",
+          "variable_count": 5,
+          "path": "Statistik/AR/Huvudsaklig verksamhet/AR013.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR013a.px": {
+          "title": "Preliminära uppgifter för befolkningen efter huvudsaklig verksamhet efter år, huvudsaklig verksamhet och kön",
+          "variable_count": 3,
+          "path": "Statistik/AR/Huvudsaklig verksamhet/AR013a.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR013b.px": {
+          "title": "Arbetskraftstal, sysselsättningstal, arbetslöshetstal samt befolkning utanför arbetskraften, % efter år, åldersgrupp, variabel och kön",
+          "variable_count": 4,
+          "path": "Statistik/AR/Huvudsaklig verksamhet/AR013b.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Arbetsplatser": {
+        "AR015.px": {
+          "title": "Inom området arbetande (arbetsplatser) (NI2008) efter år, kön, kommun, bransch och åldersgrupp",
+          "variable_count": 5,
+          "path": "Statistik/AR/Arbetsplatser/AR015.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR015b.px": {
+          "title": "Inom området arbetande (NI2008) efter år, kommun, näringsgren (detaljerad), åldersgrupp och kön",
+          "variable_count": 5,
+          "path": "Statistik/AR/Arbetsplatser/AR015b.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR017.px": {
+          "title": "Inom området arbetande (arbetsplatser) (NI2008) efter år, kön, kommun, näringsgren och yrkesställning",
+          "variable_count": 5,
+          "path": "Statistik/AR/Arbetsplatser/AR017.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR018.px": {
+          "title": "Inom området arbetande (arbetsplatser) efter kommun, kön och år",
+          "variable_count": 3,
+          "path": "Statistik/AR/Arbetsplatser/AR018.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Sysselsättning": {
+        "AR007.px": {
+          "title": "Sysselsatt arbetskraft (NI2008) efter år, kommun, bransch, kön och åldersgrupp",
+          "variable_count": 5,
+          "path": "Statistik/AR/Sysselsättning/AR007.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR007b.px": {
+          "title": "Sysselsatt arbetskraft (NI2008) efter år, kommun, näringsgren (detaljerad), åldersgrupp och kön",
+          "variable_count": 5,
+          "path": "Statistik/AR/Sysselsättning/AR007b.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR009.px": {
+          "title": "Sysselsatt arbetskraft (NI2008) efter år, kön, kommun, utbildningsnivå, utbildningsområde och bransch",
+          "variable_count": 6,
+          "path": "Statistik/AR/Sysselsättning/AR009.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR011.px": {
+          "title": "Sysselsatt arbetskraft (NI2008) efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/AR/Sysselsättning/AR011.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR011b.px": {
+          "title": "Sysselsatt arbetskraft efter variabel, år och bransch",
+          "variable_count": 3,
+          "path": "Statistik/AR/Sysselsättning/AR011b.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR012.px": {
+          "title": "Sysselsatt arbetskraft efter kommun, kön och år",
+          "variable_count": 3,
+          "path": "Statistik/AR/Sysselsättning/AR012.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR013c.px": {
+          "title": "Förvärvsarbetande befolkning efter region, år och näringsgren",
+          "variable_count": 3,
+          "path": "Statistik/AR/Sysselsättning/AR013c.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR020.px": {
+          "title": "Pendling inom Finland efter år, boendekommun, arbetsplatsens kommun och näringsgren",
+          "variable_count": 4,
+          "path": "Statistik/AR/Sysselsättning/AR020.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Avslutade": {
+        "AR001.px": {
+          "title": "Arbetslösa efter år, månad, kön och arbetslöshetsmått",
+          "variable_count": 4,
+          "path": "Statistik/AR/Avslutade/AR001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR003.px": {
+          "title": "Tillsatta platser efter år, månad, avdelning, yrke och tillsättningstid",
+          "variable_count": 5,
+          "path": "Statistik/AR/Avslutade/AR003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR006.px": {
+          "title": "Sysselsatt arbetskraft (NI2002) efter år, kommun, bransch, kön och åldersgrupp",
+          "variable_count": 5,
+          "path": "Statistik/AR/Avslutade/AR006.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR007b.px": {
+          "title": "Sysselsatt arbetskraft (NI2002) efter år, kommun, näringsgren (detaljerad) och kön",
+          "variable_count": 4,
+          "path": "Statistik/AR/Avslutade/AR007b.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR008.px": {
+          "title": "Sysselsatt arbetskraft (NI2002) efter år, kön, kommun, utbildningsnivå, utbildningsområde och bransch",
+          "variable_count": 6,
+          "path": "Statistik/AR/Avslutade/AR008.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR009x.px": {
+          "title": "Sysselsatt arbetskraft (NI2008) efter år, kön, kommun, utbildningsnivå, utbildningsområde och bransch",
+          "variable_count": 6,
+          "path": "Statistik/AR/Avslutade/AR009x.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "AR010.px": {
+          "title": "Sysselsatt arbetskraft (NI2002) efter år och bransch",
+          "variable_count": 2,
+          "path": "Statistik/AR/Avslutade/AR010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR014.px": {
+          "title": "Inom området arbetande (NI2002) efter år, kön, kommun, bransch och åldersgrupp",
+          "variable_count": 5,
+          "path": "Statistik/AR/Avslutade/AR014.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR015b.px": {
+          "title": "Inom området arbetande (NI2002) efter år, kommun, näringsgren (detaljerad) och kön",
+          "variable_count": 4,
+          "path": "Statistik/AR/Avslutade/AR015b.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "AR016.px": {
+          "title": "Inom området arbetande (NI2002) efter år, kön, kommun, näringsgren och yrkesställning",
+          "variable_count": 5,
+          "path": "Statistik/AR/Avslutade/AR016.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "BE": {
+      "Befolkningens storlek och struktur": {
+        "BE001.px": {
+          "title": "Befolkning efter år, ålder, kommun och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE001.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "BE004.px": {
+          "title": "Befolkning efter kommun och år",
+          "variable_count": 2,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE007.px": {
+          "title": "Befolkning efter år, ålder, språk och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE007.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE008.px": {
+          "title": "Befolkning efter år, kön, ålder och födelseland",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE008.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE009.px": {
+          "title": "Befolkning efter år, kön, åldersgrupp och medborgarskap",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE009.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE010.px": {
+          "title": "Befolkning efter år, kommun och födelseort",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE032.px": {
+          "title": "Befolkning 31.12.2000-2024 efter år, kommun och språk",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE032.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE033.px": {
+          "title": "Befolkning 1999-2024 efter kön, ålder, år och civilstånd",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE033.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE034.px": {
+          "title": "Befolkning 1999-2024 efter födelseland, år och kön",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE034.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE035.px": {
+          "title": "Befolkning 1999-2024 efter födelseland, medborgarskap, år och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE035.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE036.px": {
+          "title": "Befolkning 1999-2024 efter födelseland, språk, år och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE036.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE037.px": {
+          "title": "BEFOLKNING 1999-2024 efter kommun, by, år och kön",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE037.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE038.px": {
+          "title": "Befolkning 1999-2024 efter kommun, by, år och födelseort",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE038.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE039.px": {
+          "title": "Befolkning 1999-2024 efter kommun, medborgarskap och år",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE039.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE040.px": {
+          "title": "Befolkningens medelålder 1975-2024 efter år, kommun och kön",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE040.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE050.px": {
+          "title": "Invånare efter år, kommun och månad",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE050.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE052.px": {
+          "title": "Personer med åländsk hembygdsrätt efter år, ålder, bostadsort och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningens storlek och struktur/BE052.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Befolkningsrörelsen": {
+        "BE003.px": {
+          "title": "Levande födda efter kön, år, kommun och moderns ålder",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE006.px": {
+          "title": "Födda och avlidna efter födda och avlidna, år och kommun",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE006.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE012.px": {
+          "title": "Befolkningsrörelsen, hela Åland efter befolkningsrörelse och år",
+          "variable_count": 2,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE012.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE013.px": {
+          "title": "Döda efter kön, år och ålder",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE013.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE014.px": {
+          "title": "Befolkningsrörelsen efter kommun, händelse och år",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE014.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE015.px": {
+          "title": "Döda efter kön, år, kommun och åldersgrupp",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE015.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE017.px": {
+          "title": "Döda efter år, kön, dödsorsak och åldersgrupp",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE017.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE018.px": {
+          "title": "In- och utflyttning efter land, flyttningsriktning och år",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE018.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE027.px": {
+          "title": "In- och utflyttning 2003-2023 efter flyttningsriktning, kommun, år och åldersgrupp",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE027.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE028.px": {
+          "title": "In- och utflyttning 2003-2023 efter flyttningsriktning, land, åldersgrupp och år",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE028.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE029.px": {
+          "title": "In- och utflyttning 2000-2023 efter flyttningsriktning, land, kommun och år",
+          "variable_count": 4,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE029.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE030.px": {
+          "title": "Flyttning mellan kommunerna 2003-2023 efter utflyttningskommun, år och inflyttningskommun",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE030.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE031.px": {
+          "title": "Flyttning mellan regionerna 2003-2023 efter utflyttningsregion, år och inflyttningsregion",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE031.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE041.px": {
+          "title": "In- och utflyttning 2012-2023 efter år, födelseland, land, flyttningsriktning och kön",
+          "variable_count": 5,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE041.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE042.px": {
+          "title": "In- och utflyttning 2012-2023 efter år, födelseland, åldersgrupp, land och flyttningsriktning",
+          "variable_count": 5,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE042.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE053.px": {
+          "title": "Befolkningsrörelsen 1990-2025 efter år, kvartal och händelse",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE053.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE054.px": {
+          "title": "Befolkningsrörelse per 1 000 invånare efter kommun, händelse och år",
+          "variable_count": 3,
+          "path": "Statistik/BE/Befolkningsrörelsen/BE054.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Familjer och hushåll": {
+        "BE019.px": {
+          "title": "Familjer och barnfamiljer efter kommun, år, familj/barnfamilj och familjetyp",
+          "variable_count": 4,
+          "path": "Statistik/BE/Familjer och hushåll/BE019.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BE020.px": {
+          "title": "Bostadshushåll efter år, kommun och personantal per hushåll",
+          "variable_count": 3,
+          "path": "Statistik/BE/Familjer och hushåll/BE020.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Prognoser": {
+        "BE051.px": {
+          "title": "Statistikcentralens Befolkningsprognos 2021-2040 efter år, ålder, kommun och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Prognoser/BE051.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "BE055.px": {
+          "title": "Statistikcentralens Befolkningsprognos 2024-2045 efter år, ålder, kommun och kön",
+          "variable_count": 4,
+          "path": "Statistik/BE/Prognoser/BE055.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "BEFOLD": {
+          "BE021.px": {
+            "title": "Befolkningsprognos efter kommun, ålder, år och kön",
+            "variable_count": 4,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE021.px",
+            "STATUS": "DOWNLOAD_FAILED"
+          },
+          "BE043.px": {
+            "title": "Statistikcentralens Befolkningsprognos 2015-2040 efter år, ålder, kommun och kön",
+            "variable_count": 4,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE043.px",
+            "STATUS": "DOWNLOAD_FAILED"
+          },
+          "BE044.px": {
+            "title": "Kommunernas framtida befolkning efter kommun, femårsgrupp, kön, år och scenario",
+            "variable_count": 5,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE044.px",
+            "STATUS": "DOWNLOAD_FAILED"
+          },
+          "BE045.px": {
+            "title": "Kommunernas framtida befolkning efter kommun, åldersgrupp, kön, år och scenario",
+            "variable_count": 5,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE045.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "BE046.px": {
+            "title": "Kommunernas framtida befolkning efter kommun, ålder, kön, år och scenario",
+            "variable_count": 5,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE046.px",
+            "STATUS": "DOWNLOAD_FAILED"
+          },
+          "BE047.px": {
+            "title": "Framtida antalet barn i skolåldern 7-15 år efter kommun, år och scenario",
+            "variable_count": 3,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE047.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "BE048.px": {
+            "title": "Framtida befolkningsrörelse på Åland efter år, komponent och scenario",
+            "variable_count": 3,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE048.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "BE049.px": {
+            "title": "Ålands framtida totalbefolkning efter kommun, år och scenario",
+            "variable_count": 3,
+            "path": "Statistik/BE/Prognoser/BEFOLD/BE049.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        }
+      }
+    },
+    "BOBY": {
+      "BO": {
+        "Avslutade": {
+          "BO002.px": {
+            "title": "Bostäder efter kommun, år och antal rum",
+            "variable_count": 3,
+            "path": "Statistik/BOBY/BO/Avslutade/BO002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "BO002.px": {
+          "title": "Bostäder efter kommun, år och antal rum",
+          "variable_count": 3,
+          "path": "Statistik/BOBY/BO/BO002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO003.px": {
+          "title": "Bostäder efter kommun, användning, hustyp, år och antal och bostadsyta",
+          "variable_count": 5,
+          "path": "Statistik/BOBY/BO/BO003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO004.px": {
+          "title": "Bostäder efter kommun, yta, år och upplåtelseform",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BO/BO004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO005.px": {
+          "title": "Bostäder efter kommun, byggnadsår, år och utrustning",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BO/BO005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO006.px": {
+          "title": "Bostadshushåll efter kommun, ytklass, år och hustyp",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BO/BO006.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO007.px": {
+          "title": "Medelmånadshyra per kvadratmeter april 2012-2024 efter år, region, finansieringsform och rumsantal",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BO/BO007.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO008.px": {
+          "title": "Aktiebostadsöverlåtelser efter år, genomsnittligt kvadratmeterpris, total köpesumma, antal överlåtelser och region",
+          "variable_count": 3,
+          "path": "Statistik/BOBY/BO/BO008.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO009.px": {
+          "title": "Aktiebostadsöverlåtelser efter år, genomsnittligt kvadratmeterpris, region och bostadens storlek",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BO/BO009.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO010.px": {
+          "title": "Medelmånadshyra per kvadratmeter april 2012-2024 efter år, region, finansieringsform och rumsantal",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BO/BO010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BO011.px": {
+          "title": "Medelmånadshyra per kvadratmeter april 2012-2024 efter år, region och hustyp",
+          "variable_count": 3,
+          "path": "Statistik/BOBY/BO/BO011.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "BY": {
+        "BY001.px": {
+          "title": "Bostadsproduktion efter kommun, år och hustyp",
+          "variable_count": 3,
+          "path": "Statistik/BOBY/BY/BY001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BY002.px": {
+          "title": "Färdigställda bostäder efter år, kommun, hustyp och lägenhetstyp",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BY/BY002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BY003.px": {
+          "title": "Ny-, till- och ombyggda byggnader efter år, kommun, produktionsmått och användningssyfte",
+          "variable_count": 4,
+          "path": "Statistik/BOBY/BY/BY003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BY004.px": {
+          "title": "Beviljade bygglov, nybyggnader och tillbyggnader efter produktionsmått, användningssyfte och år",
+          "variable_count": 3,
+          "path": "Statistik/BOBY/BY/BY004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "BY005.px": {
+          "title": "Beviljade bygglov, nybyggnader och tillbyggnader efter produktionsmått, användningssyfte och år",
+          "variable_count": 3,
+          "path": "Statistik/BOBY/BY/BY005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "FOHA": {
+      "FI": {
+        "FI001.px": {
+          "title": "Bankväsendet, 1 000 EUR efter nyckeltal och år",
+          "variable_count": 2,
+          "path": "Statistik/FOHA/FI/FI001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "FI002.px": {
+          "title": "Arbetspensionsförsäkringsbolags nyckeltal, 1000  efter nyckeltal och år",
+          "variable_count": 2,
+          "path": "Statistik/FOHA/FI/FI002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "FI003.px": {
+          "title": "Skadeförsäkringsbolags nyckeltal, 1 000 EUR efter nyckeltal och år",
+          "variable_count": 2,
+          "path": "Statistik/FOHA/FI/FI003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "FI004.px": {
+          "title": "Livförsäkringsbolags nyckeltal, 1 000 EUR efter nyckeltal och år",
+          "variable_count": 2,
+          "path": "Statistik/FOHA/FI/FI004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "FO": {
+        "Arbetsställen": {
+          "FO010.px": {
+            "title": "Antal arbetsställen (NI2008) efter år, kommun och personalens storleksklass",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Arbetsställen/FO010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO017.px": {
+            "title": "Arbetsställen på Åland efter år, kommun och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Arbetsställen/FO017.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO018.px": {
+            "title": "Arbetsställen på Åland efter år, storleksklass och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Arbetsställen/FO018.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Avslutade": {
+          "FO001.px": {
+            "title": "Bokslutsstatistik (resultaträkning i 1000 euro) (NI2002) efter bransch, finansiella poster och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Avslutade/FO001.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO003.px": {
+            "title": "Bokslutsstatistik (balansräkning i 1000 euro) (NI2002) efter bransch, finansiella poster och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Avslutade/FO003.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO005.px": {
+            "title": "Antal företag (NI2002) efter år, kommun och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Avslutade/FO005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO007.px": {
+            "title": "Antal företag (NI2002) efter år, personalens storleksklass och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Avslutade/FO007.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO009.px": {
+            "title": "Antal arbetsställen (NI2002) efter år, kommun och personalens storleksklass",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Avslutade/FO009.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO011.px": {
+            "title": "Nya och nedlagda företag (NI2002) efter aktivitet, bransch och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Avslutade/FO011.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Företagens ekonomi": {
+          "FO002.px": {
+            "title": "Bokslutsstatistik (resultaträkning i 1000 euro) efter bransch, finansiella poster och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO004.px": {
+            "title": "Bokslutsstatistik (balansräkning i 1000 euro) efter bransch, finansiella poster och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO004.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO013.px": {
+            "title": "Omsättningsindex, medeltal för året 2002 = 100 efter år, kvartal, komponent och bransch",
+            "variable_count": 4,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO013.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO013b.px": {
+            "title": "Näringslivets omsättning (miljoner euro) efter år, månad och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO013b.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO014.px": {
+            "title": "Lönesummaindex, medeltal för året 2002 = 100 efter år, kvartal, komponent och bransch",
+            "variable_count": 4,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO014.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO014b.px": {
+            "title": "Näringslivets löneutbetalningar (1 000 euro) efter år, månad och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO014b.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO024.px": {
+            "title": "Nyckeltal för åländska företag efter branch, nyckeltal, år och grupp",
+            "variable_count": 4,
+            "path": "Statistik/FOHA/FO/Företagens ekonomi/FO024.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Företagsbestånd": {
+          "FO006.px": {
+            "title": "Antal företag (NI2008) efter år, kommun och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagsbestånd/FO006.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO008.px": {
+            "title": "Antal företag (NI2008) efter år, personalens storleksklass och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagsbestånd/FO008.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO012.px": {
+            "title": "Nya och nedlagda företag (NI2008) efter aktivitet, bransch och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagsbestånd/FO012.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO012b.px": {
+            "title": "Konkurser efter företagsdata, bransch och år",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagsbestånd/FO012b.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO015.px": {
+            "title": "Företagen på Åland efter år, kommun och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagsbestånd/FO015.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO016.px": {
+            "title": "Företagen på Åland efter år, storleksklass och bransch",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Företagsbestånd/FO016.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Koncerner": {
+          "FO019.px": {
+            "title": "Koncerner verksamma på Åland efter år, koncerntyp och bolagsform",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Koncerner/FO019.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO020.px": {
+            "title": "Koncerner verksamma på Åland efter år, personalklass och information",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Koncerner/FO020.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO021.px": {
+            "title": "Koncerner verksamma på Åland efter år, omsättningsklass och information",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Koncerner/FO021.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO022.px": {
+            "title": "Koncerner verksamma på Åland efter år, bransch och information",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Koncerner/FO022.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "FO023.px": {
+            "title": "Andel av alla företag på Åland som tillhör koncern (procent) efter år, bransch och information",
+            "variable_count": 3,
+            "path": "Statistik/FOHA/FO/Koncerner/FO023.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        }
+      },
+      "HA": {
+        "Avslutade": {
+          "HA001.px": {
+            "title": "Importvärde i 1 000 euro efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA001.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA002.px": {
+            "title": "Importvärde i 1 000 euro efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA003.px": {
+            "title": "Importvolym i ton efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA003.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA004.px": {
+            "title": "Importvolym i ton efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA004.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA005.px": {
+            "title": "Exportvärde i 1 000 euro efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA006.px": {
+            "title": "Exportvärde i 1 000 euro efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA006.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA007.px": {
+            "title": "Exportvolym i ton efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA007.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA008.px": {
+            "title": "Exportvolym i ton efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA008.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA009.px": {
+            "title": "Handelsnettots värde i utrikeshandel i 1 000 euro efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA009.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA010.px": {
+            "title": "Handelsnettots värde i utrikeshandel i 1 000 euro efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA011.px": {
+            "title": "Handelsnettots volym i utrikeshandel i ton efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA011.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA012.px": {
+            "title": "Handelsnettots volym i utrikeshandel i ton efter varuslag och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA012.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA013.px": {
+            "title": "Importvärde i 1 000 euro (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA013.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA014.px": {
+            "title": "Importvärde i 1 000 euro (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA014.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA015.px": {
+            "title": "Importvärde i 1 000 euro (NI2002) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA015.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA016.px": {
+            "title": "Importvolym i ton (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA016.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA017.px": {
+            "title": "Importvolym i ton (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA017.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA018.px": {
+            "title": "Importvolym i ton (NI2002) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA018.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA019.px": {
+            "title": "Exportvärde i 1 000 euro (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA019.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA020.px": {
+            "title": "Exportvärde i 1 000 euro (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA020.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA021.px": {
+            "title": "Exportvärde i 1 000 euro (NI2002) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA021.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA022.px": {
+            "title": "Exportvolym i ton (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA022.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA023.px": {
+            "title": "Exportvolym i ton (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA023.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA024.px": {
+            "title": "Exportvolym i ton (NI2002) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA024.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA025.px": {
+            "title": "Handelsnettot, värde i 1 000 euro (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA025.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA026.px": {
+            "title": "Handelsnettot, värde i 1 000 euro (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA026.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA027.px": {
+            "title": "Handelsnettot, värde i 1 000 euro (NI2002) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA027.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA028.px": {
+            "title": "Handelsnettot, volym i ton (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA028.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA029.px": {
+            "title": "Handelsnettot, volym i ton (NI2008) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA029.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA030.px": {
+            "title": "Handelsnettot, volym i ton (NI2002) efter bransch och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA030.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HA032.px": {
+            "title": "Import och Export (1 000 euro) efter handelsvariabel och år",
+            "variable_count": 2,
+            "path": "Statistik/FOHA/HA/Avslutade/HA032.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "HA031.px": {
+          "title": "Import och Export (1 000 euro) efter handelsvariabel och år",
+          "variable_count": 2,
+          "path": "Statistik/FOHA/HA/HA031.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "HA033.px": {
+          "title": "Utrikeshandel med varor efter enhet, handelsriktning, varuslag och år",
+          "variable_count": 4,
+          "path": "Statistik/FOHA/HA/HA033.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "HA034.px": {
+          "title": "Utrikeshandel med varor efter enhet, handelsriktning, bransch och år",
+          "variable_count": 4,
+          "path": "Statistik/FOHA/HA/HA034.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "HA035.px": {
+          "title": "Handel med varor över skattegränsen efter handelsriktning, bransch och år",
+          "variable_count": 3,
+          "path": "Statistik/FOHA/HA/HA035.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "HA036.px": {
+          "title": "Sammanlagd handel med varor efter handelsriktning, bransch och år",
+          "variable_count": 3,
+          "path": "Statistik/FOHA/HA/HA036.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "HA037.px": {
+          "title": "Handelns omsättning efter bransch efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/FOHA/HA/HA037.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "INLO": {
+      "IN": {
+        "Avslutade": {
+          "IN001gammal.px": {
+            "title": "Fysiska personers inkomster och beskattning efter år, kommun, uppgifter, kön och åldersgrupp",
+            "variable_count": 5,
+            "path": "Statistik/INLO/IN/Avslutade/IN001gammal.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "IN002gammal.px": {
+            "title": "Fysiska personers inkomster, avdrag och beskattning efter år, kommun, uppgifter, kön och åldersgrupp",
+            "variable_count": 5,
+            "path": "Statistik/INLO/IN/Avslutade/IN002gammal.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "IN005gammal.px": {
+            "title": "Antal beskattade inkomsttagare, inkomster och skatter 2005-2018 efter År, Kommun och Uppgifter",
+            "variable_count": 3,
+            "path": "Statistik/INLO/IN/Avslutade/IN005gammal.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "IN006bort.px": {
+            "title": "Bostadshushållens inkomster efter år, region och uppgifter",
+            "variable_count": 3,
+            "path": "Statistik/INLO/IN/Avslutade/IN006bort.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "IN007gammal.px": {
+            "title": "Fysiska personers inkomster och beskattning efter år, kommun, uppgifter, kön och åldersgrupp",
+            "variable_count": 5,
+            "path": "Statistik/INLO/IN/Avslutade/IN007gammal.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "IN008gammal.px": {
+            "title": "Fysiska personers inkomster, avdrag och beskattning efter år, kommun, uppgifter och Inkomstklass",
+            "variable_count": 4,
+            "path": "Statistik/INLO/IN/Avslutade/IN008gammal.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "IN003.px": {
+          "title": "Bostadshushållens inkomster efter år, kommun och uppgifter",
+          "variable_count": 3,
+          "path": "Statistik/INLO/IN/IN003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "IN004.px": {
+          "title": "Bostadshushållens inkomster efter år, region och uppgifter",
+          "variable_count": 3,
+          "path": "Statistik/INLO/IN/IN004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "IN005.px": {
+          "title": "Bostadshushållens inkomster och betalda transfereringar efter år, kommun och uppgifter",
+          "variable_count": 3,
+          "path": "Statistik/INLO/IN/IN005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "IN007.px": {
+          "title": "Antal inkomsttagare samt inkomster och beskattning efter år, beskattningsposter, kön och uppgifter",
+          "variable_count": 4,
+          "path": "Statistik/INLO/IN/IN007.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "IN008.px": {
+          "title": "Antal inkomsttagare samt inkomster och beskattning efter år, beskattningsposter, ålder och uppgifter",
+          "variable_count": 4,
+          "path": "Statistik/INLO/IN/IN008.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "IN009.px": {
+          "title": "Antal inkomsttagare samt inkomster och beskattning efter år, beskattningsposter, hushållstyp och uppgifter",
+          "variable_count": 4,
+          "path": "Statistik/INLO/IN/IN009.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "IN010.px": {
+          "title": "Antal inkomsttagare samt inkomster och beskattning efter år, beskattningsposter, inkomstklasser och uppgifter",
+          "variable_count": 4,
+          "path": "Statistik/INLO/IN/IN010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "LO": {
+        "Avslutade": {
+          "LO001.px": {
+            "title": "Genomsnittliga månatliga löneinkomster för heltidsanställda i privata sektorn, oktober månad (NI2002) efter år, bransch, yrkesgrupp, inkomsttyp och kön",
+            "variable_count": 5,
+            "path": "Statistik/INLO/LO/Avslutade/LO001.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LO003.px": {
+            "title": "Genomsnittliga månatliga löneinkomster för heltidsanställda i privata sektorn, oktober månad (ISCO-2001) efter år, yrkesgrupp, inkomsttyp och kön",
+            "variable_count": 4,
+            "path": "Statistik/INLO/LO/Avslutade/LO003.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LO005.px": {
+            "title": "Genomsnittliga månatliga löneinkomster för heltidsanställda vid Ålands landskapsregering, oktober månad (ISCO-2001) efter år, yrkesgrupp, inkomsttyp och kön",
+            "variable_count": 4,
+            "path": "Statistik/INLO/LO/Avslutade/LO005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LO007.px": {
+            "title": "Genomsnittliga månatliga löneinkomster för kommunalt heltidsanställda på Åland, oktober månad (ISCO-2001) efter år, yrkesgrupp, inkomsttyp och kön",
+            "variable_count": 4,
+            "path": "Statistik/INLO/LO/Avslutade/LO007.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LO009.px": {
+            "title": "Genomsnittliga månatliga löneinkomster för statligt heltidsanställda på Åland, november månad (ISCO-2001) efter år, yrkesgrupp, inkomsttyp och kön",
+            "variable_count": 4,
+            "path": "Statistik/INLO/LO/Avslutade/LO009.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LO010.px": {
+            "title": "Genomsnittliga månatliga löneinkomster för statligt heltidsanställda på Åland, oktober månad (ISCO-2010) efter år, yrkesgrupp, inkomsttyp och kön",
+            "variable_count": 4,
+            "path": "Statistik/INLO/LO/Avslutade/LO010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "LO002.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för heltidsanställda i privata sektorn, september månad (NI2008) efter år, bransch, yrkesgrupp, inkomsttyp och kön",
+          "variable_count": 5,
+          "path": "Statistik/INLO/LO/LO002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO004.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för heltidsanställda i privata sektorn, september månad efter år, yrkesgrupp, inkomsttyp och kön",
+          "variable_count": 4,
+          "path": "Statistik/INLO/LO/LO004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO006.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för heltidsanställda vid Ålands landskapsregering, oktober månad (ISCO-2010) efter år, yrkesgrupp, inkomsttyp och kön",
+          "variable_count": 4,
+          "path": "Statistik/INLO/LO/LO006.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO008.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för kommunalt heltidsanställda på Åland, oktober månad (ISCO-2010) efter år, yrkesgrupp, inkomsttyp och kön",
+          "variable_count": 4,
+          "path": "Statistik/INLO/LO/LO008.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO010.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för statligt heltidsanställda på Åland, november månad (ISCO-2010) efter år, yrkesgrupp, inkomsttyp och kön",
+          "variable_count": 4,
+          "path": "Statistik/INLO/LO/LO010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO011.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för sjöanställda efter år, personalkategori, kön, variabel och bransch",
+          "variable_count": 5,
+          "path": "Statistik/INLO/LO/LO011.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO012.px": {
+          "title": "Genomsnittliga månatliga löneinkomster för sjöanställda efter år, personalkategori, kön, variabel och bransch",
+          "variable_count": 5,
+          "path": "Statistik/INLO/LO/LO012.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "LO013.px": {
+          "title": "Månadslöner för heltidsanställda inom offentliga sektorn, total förtjänst efter år, sektor, kön och uppgifter",
+          "variable_count": 4,
+          "path": "Statistik/INLO/LO/LO013.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "JO": {
+      "JO001.px": {
+        "title": "Skogsbruket, sålt virke efter år, mängd eller värde och virke",
+        "variable_count": 3,
+        "path": "Statistik/JO/JO001.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "JO002.px": {
+        "title": "Jakt på hjortdjur och säl efter år och fällda djur",
+        "variable_count": 2,
+        "path": "Statistik/JO/JO002.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    },
+    "KO": {
+      "Avslutade": {
+        "KO001.px": {
+          "title": "Konsumentprisindex (1985=100) efter år och månad",
+          "variable_count": 2,
+          "path": "Statistik/KO/Avslutade/KO001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KO002.px": {
+          "title": "Konsumentprisindex (1995=100) efter år och månad",
+          "variable_count": 2,
+          "path": "Statistik/KO/Avslutade/KO002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KO003.px": {
+          "title": "Konsumentprisindex (2000=100) efter år, månad och varugrupp",
+          "variable_count": 3,
+          "path": "Statistik/KO/Avslutade/KO003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KO004.px": {
+          "title": "Konsumentprisindex (2005=100) efter år, månad och varugrupp",
+          "variable_count": 3,
+          "path": "Statistik/KO/Avslutade/KO004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KO005.px": {
+          "title": "Konsumentprisindex (2010=100) efter år, månad och varugrupp",
+          "variable_count": 3,
+          "path": "Statistik/KO/Avslutade/KO005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KO006.px": {
+          "title": "Konsumentprisindex (2015=100) efter år, månad och varugrupp",
+          "variable_count": 3,
+          "path": "Statistik/KO/Avslutade/KO006.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "KO000.px": {
+        "title": "Konsumentprisindex för Åland, procentuella förändringar under tolvmånadersperioder (inflation) efter år och månad",
+        "variable_count": 2,
+        "path": "Statistik/KO/KO000.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "KO007.px": {
+        "title": "Konsumentprisindex (1985=100, 1990=100, 1995=100, 2000=100, 2005=100, 2010=100, 2015=100) efter år, månad och indexserie",
+        "variable_count": 3,
+        "path": "Statistik/KO/KO007.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "KO008.px": {
+        "title": "Konsumentprisindex (2000=100, 2005=100, 2010=100, 2015=100) efter år, varugrupp, indexserie och månad",
+        "variable_count": 4,
+        "path": "Statistik/KO/KO008.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "KO009.px": {
+        "title": "Konsumentprisindex för Åland (2015=100) efter uppgifter, varugrupp och månad",
+        "variable_count": 3,
+        "path": "Statistik/KO/KO009.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    },
+    "MI": {
+      "ASUB_SDG.px": {
+        "title": "Indikatorer för hållbar utveckling (FN) efter indikator och år",
+        "variable_count": 2,
+        "path": "Statistik/MI/ASUB_SDG.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI001.px": {
+        "title": "Väderleksförhållanden efter väderleksförhållande, månad och år",
+        "variable_count": 3,
+        "path": "Statistik/MI/MI001.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI003.px": {
+        "title": "Uppkommet avfall på Åland efter avfallsslag, år och farligt/icke-farligt",
+        "variable_count": 3,
+        "path": "Statistik/MI/MI003.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI005.px": {
+        "title": "Uppkommet avfall på Åland (NI2008) efter bransch och år",
+        "variable_count": 2,
+        "path": "Statistik/MI/MI005.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI006.px": {
+        "title": "Vattendragsbelastningen på Åland efter år, ämne och bransch",
+        "variable_count": 3,
+        "path": "Statistik/MI/MI006.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI007.px": {
+        "title": "Vattenförsörjningen på Åland efter år och bolag",
+        "variable_count": 2,
+        "path": "Statistik/MI/MI007.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI007b.px": {
+        "title": "Ålands Vatten Ab:s vattenförsörjning efter år och region, organiskt material och pris",
+        "variable_count": 2,
+        "path": "Statistik/MI/MI007b.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI007c.px": {
+        "title": "Avloppsvattenreningen i Mariehamn efter år, avloppsvattnets riktning och mängd och innehåll",
+        "variable_count": 3,
+        "path": "Statistik/MI/MI007c.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI008.px": {
+        "title": "I lag skyddade naturskyddsområden efter år och statistik",
+        "variable_count": 2,
+        "path": "Statistik/MI/MI008.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI009.px": {
+        "title": "Anskaffning och produktion av el efter år, statistik och ursprung",
+        "variable_count": 3,
+        "path": "Statistik/MI/MI009.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI010.px": {
+        "title": "Elförsäljningen efter år, region, såld effekt och bransch",
+        "variable_count": 4,
+        "path": "Statistik/MI/MI010.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI011.px": {
+        "title": "Oljebolagens försäljning av några vanliga oljeprodukter på Åland efter år och produkt",
+        "variable_count": 2,
+        "path": "Statistik/MI/MI011.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "MI012.px": {
+        "title": "Konsumtionstudie 2016 med miljöindikatorer efter region, typ  av variabel och produktkategori",
+        "variable_count": 3,
+        "path": "Statistik/MI/MI012.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "Avslutade": {
+        "MI002.px": {
+          "title": "Uppkommet avfall på Åland efter avfallsslag, år och farligt/icke-farligt",
+          "variable_count": 3,
+          "path": "Statistik/MI/Avslutade/MI002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "MI004.px": {
+          "title": "Uppkommet avfall på Åland (NI2002) efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/MI/Avslutade/MI004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "NA": {
+      "Bruttonationalprodukt": {
+        "NA005.px": {
+          "title": "Bruttonationalprodukten per person i löpande priser (omräknade till köpkraftsparitet) efter region och år",
+          "variable_count": 2,
+          "path": "Statistik/NA/Bruttonationalprodukt/NA005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA039.px": {
+          "title": "Bruttonationalprodukten efter uppgift, bransch och år",
+          "variable_count": 3,
+          "path": "Statistik/NA/Bruttonationalprodukt/NA039.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Konsumtion": {
+        "NA025.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2006 efter varugrupp och storområde",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA025.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA026.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2006 efter varugrupp och åldersgrupp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA026.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA027.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2006 efter varugrupp och utbildningsnivå",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA027.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA028.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2006 efter varugrupp och socioekonomisk ställning",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA028.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA029.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2006 efter varugrupp och hushållstyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA029.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA030.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2006 efter varugrupp och hustyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA030.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA031.px": {
+          "title": "Hushållens genomsnittliga konsumtion utanför Åland år 2006 efter varugrupp och region",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA031.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA032.px": {
+          "title": "Hushållens genomsnittliga konsumtion via Internet samt postorder år 2006 efter rangordning/varugrupp",
+          "variable_count": 1,
+          "path": "Statistik/NA/Konsumtion/NA032.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA033.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2012 efter varugrupp och referenspersonens åldersgrupp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA033.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA034.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2012 efter varugrupp och referenspersonens kön",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA034.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA035.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2012 efter varugrupp och referenspersonens socioekonomiska status",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA035.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA036.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2012 efter varugrupp och referenspersonens utbildningsnivå",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA036.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA037.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2012 efter varugrupp och hustyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA037.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA038.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2012 efter varugrupp och hushållstyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA038.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA040.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2016 efter varugrupp och referenspersonens åldersgrupp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA040.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA041.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2016 efter varugrupp och referenspersonens kön",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA041.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA042.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2016 efter varugrupp och referenspersonens socioekonomiska status",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA042.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA043.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2016 efter varugrupp och referenspersonens utbildningsnivå",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA043.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA044.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2016 efter varugrupp och hustyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA044.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA045.px": {
+          "title": "Hushållens genomsnittliga konsumtion år 2016 efter varugrupp och hushållstyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA045.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA046.px": {
+          "title": "Hushållens konsumtionsutgifter efter region efter Konsumtionsutgifter, Pris, År, Område och Konsumtionsenhet",
+          "variable_count": 5,
+          "path": "Statistik/NA/Konsumtion/NA046.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "NA050.px": {
+          "title": "Hushållens genomsnittliga konsumtion efter Varugrupp och Referenspersonens åldersgrupp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA050.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA051.px": {
+          "title": "Hushållens genomsnittliga konsumtion efter Varugrupp och Referenspersonens kön",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA051.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA052.px": {
+          "title": "Hushållens genomsnittliga konsumtion efter Varugrupp och Referenspersonens socioekonomiska status",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA052.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA053.px": {
+          "title": "Hushållens genomsnittliga konsumtion efter Varugrupp och Referenspersonens utbildningsnivå",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA053.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA054.px": {
+          "title": "Hushållens genomsnittliga konsumtion efter Varugrupp och Hustyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA054.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA055.px": {
+          "title": "Hushållens genomsnittliga konsumtion efter Varugrupp och Hushållstyp",
+          "variable_count": 2,
+          "path": "Statistik/NA/Konsumtion/NA055.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Socialräkenskapsmatriser": {
+        "SAM2007_agg.px": {
+          "title": "Aggregerad socialräkenskapsmatris för Åland år 2007 efter rad och kolumn",
+          "variable_count": 2,
+          "path": "Statistik/NA/Socialräkenskapsmatriser/SAM2007_agg.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "SAM2007_det.px": {
+          "title": "Socialräkenskapsmatris för Åland 2007 efter rad och kolumn",
+          "variable_count": 2,
+          "path": "Statistik/NA/Socialräkenskapsmatriser/SAM2007_det.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "SAM2010.px": {
+          "title": "Socialräkenskapsmatris för Åland 2010 efter rad och kolumn efter rad och kolumn",
+          "variable_count": 2,
+          "path": "Statistik/NA/Socialräkenskapsmatriser/SAM2010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "SAM2010AGG.px": {
+          "title": "Aggregarad socialräkenskapsmatris för Åland år 2010 efter rad och kolumn",
+          "variable_count": 2,
+          "path": "Statistik/NA/Socialräkenskapsmatriser/SAM2010AGG.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "SAM2015.px": {
+          "title": "Socialräkenskapsmatris för Åland 2015 efter rad och kolumn",
+          "variable_count": 2,
+          "path": "Statistik/NA/Socialräkenskapsmatriser/SAM2015.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "SAM2015AGG.px": {
+          "title": "Aggregarad socialräkenskapsmatris för Åland år 2015 efter rad och kolumn",
+          "variable_count": 2,
+          "path": "Statistik/NA/Socialräkenskapsmatriser/SAM2015AGG.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "Avslutade": {
+        "NA001.px": {
+          "title": "Bruttonationalprodukten enligt näringsgrenar, löpande priser (NI2002) efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/NA/Avslutade/NA001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA002.px": {
+          "title": "Bruttonationalprodukten enligt näringsgren, löpande priser (NI2008) efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/NA/Avslutade/NA002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA003.px": {
+          "title": "Bruttonationalprodukten i fasta priser (referensår 2008) (NI2002) efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/NA/Avslutade/NA003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA004.px": {
+          "title": "Bruttonationalprodukten (NI2008) i fasta priser (referensår 2013) efter bransch och år",
+          "variable_count": 2,
+          "path": "Statistik/NA/Avslutade/NA004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "NA033.px": {
+          "title": "Bruttonationalprodukten 2008-2016 efter uppgift, bransch och år",
+          "variable_count": 3,
+          "path": "Statistik/NA/Avslutade/NA033.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "OF": {
+      "1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter": {
+        "1.1 Bokslut": {
+          "OF002.px": {
+            "title": "Kommunernas resultaträkningar efter år, finansiella poster och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.1 Bokslut/OF002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF012.px": {
+            "title": "Kommunernas balanser efter år, finansiella poster och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.1 Bokslut/OF012.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF014.px": {
+            "title": "Kommunernas finansieringsanalys efter år, finansiella poster och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.1 Bokslut/OF014.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF027.px": {
+            "title": "Kommunalförbundens resultaträkningar efter år, finansiella poster och kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.1 Bokslut/OF027.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF028.px": {
+            "title": "Kommunalförbundens balanser efter år, finansiella poster och kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.1 Bokslut/OF028.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF029.px": {
+            "title": "Kommunalförbundens finansieringsanalys efter år, finansiella poster och kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.1 Bokslut/OF029.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "1.2 Koncernbokslut": {
+          "OF026.px": {
+            "title": "Kommunernas och kommunalförbundens koncernbokslutsuppgifter, 1000 euro efter år, bokslutspost och kommun eller kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.2 Koncernbokslut/OF026.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "1.3 Driftsekonomi": {
+          "OF010.px": {
+            "title": "Kommunernas driftskostnader, 1 000 euro efter år, uppgiftsklass och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF011.px": {
+            "title": "Kommunernas nettodriftskostnader, 1 000 euro efter år, uppgiftsklass och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF011.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF030.px": {
+            "title": "Kommunalförbundens driftskostnader, 1 000 euro efter år, uppgiftsklass och kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF030.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF032.px": {
+            "title": "Kommunernas driftskostnader, 1 000 euro efter år, serviceklass och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF032.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF033.px": {
+            "title": "Kommunernas nettodriftskostnader, 1 000 euro efter år, serviceklass och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF033.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF034.px": {
+            "title": "Kommunalförbundens driftskostnader, 1 000 euro efter år, serviceklass och kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF034.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF035.px": {
+            "title": "Kommunalförbundens nettodriftskostnader, 1 000 euro efter år, serviceklass och kommunalförbund",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.3 Driftsekonomi/OF035.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "1.4 Investeringar": {
+          "OF039.px": {
+            "title": "Kommunernas investeringar efter år, kommun, typ av utgift, nyttighetstyp och serviceklass",
+            "variable_count": 5,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.4 Investeringar/OF039.px",
+            "STATUS": "DOWNLOAD_FAILED"
+          },
+          "OF040.px": {
+            "title": "Kommunalförbundens investeringar efter år, kommunalförbund, typ av utgift, nyttighetstyp och serviceklass",
+            "variable_count": 5,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.4 Investeringar/OF040.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "1.5 Nyckeltal": {
+          "OF003.px": {
+            "title": "Kommunvisa relationstal euro/invånare efter år, relationstal och kommun",
+            "variable_count": 3,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF003.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF015.px": {
+            "title": "Löneutgifter, 1 000 euro efter Kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF015.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF016.px": {
+            "title": "Årsbidrag, 1 000 euro efter Kommun och År",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF016.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF017.px": {
+            "title": "Årsbidrag per invånare, euro efter Kommun och År",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF017.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF018.px": {
+            "title": "Skatteprocent (skatteår) efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF018.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF019.px": {
+            "title": "Beskattningsbar inkomst (skatteår), 1 000 euro efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF019.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF020.px": {
+            "title": "Beskattningsbar inkomst, euro per invånare efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF020.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF021.px": {
+            "title": "Lånestock, 1 000 euro efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF021.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF022.px": {
+            "title": "Lånestock per invånare, euro efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF022.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF023.px": {
+            "title": "Kassamedel, 1 000 euro efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF023.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF024.px": {
+            "title": "Kassamedel per invånare, euro efter kommun och år",
+            "variable_count": 2,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF024.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OF025.px": {
+            "title": "Nyckeltal för kommunsektorn och dess koncerner efter år, nyckeltal, organisationsform och kommun/kommunalförbund",
+            "variable_count": 4,
+            "path": "Statistik/OF/1. Kommunernas och kommunalförbundens rapporterade ekonomiuppgifter/1.5 Nyckeltal/OF025.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        }
+      },
+      "2. Landskapet Ålands ekonomiuppgifter": {
+        "OF007.px": {
+          "title": "Budgetuppföljning av landskapet Ålands verksamhet efter förvaltningsområde och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/2. Landskapet Ålands ekonomiuppgifter/OF007.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF008.px": {
+          "title": "Landskapet Ålands resultaträkning 2014-2024 efter kontorubrik och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/2. Landskapet Ålands ekonomiuppgifter/OF008.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF009.px": {
+          "title": "Landskapet Ålands balansräkning efter kontorubrik och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/2. Landskapet Ålands ekonomiuppgifter/OF009.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF036.px": {
+          "title": "Landskapets Ålands finansieringsanalys, 1 000 EUR efter post och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/2. Landskapet Ålands ekonomiuppgifter/OF036.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF037.px": {
+          "title": "Ålands landskapsregerings lånefordringar, 1 000 EUR efter låneart och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/2. Landskapet Ålands ekonomiuppgifter/OF037.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF038.px": {
+          "title": "Ålands hälso- och sjukvård, bokslutsuppgifter 2005-2023, 1 000 EUR efter post och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/2. Landskapet Ålands ekonomiuppgifter/OF038.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "OF031.px": {
+        "title": "Konsoliderad resultaträkning för offentliga sektorn på Åland efter år, kontorubrik och sektor",
+        "variable_count": 3,
+        "path": "Statistik/OF/OF031.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "Avslutade": {
+        "OF001.px": {
+          "title": "Kommunernas driftskostnader, 1 000 euro efter år, uppgiftsklass och kommun",
+          "variable_count": 3,
+          "path": "Statistik/OF/Avslutade/OF001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF004.px": {
+          "title": "Kommunernas balanser efter uppgiftsklass och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/Avslutade/OF004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF005.px": {
+          "title": "Kommunernas finansieringskalkyler efter sektor och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/Avslutade/OF005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF007.px": {
+          "title": "Landskapet Ålands resultaträkningar efter sektor och år",
+          "variable_count": 2,
+          "path": "Statistik/OF/Avslutade/OF007.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "OF009.px": {
+          "title": "Överföringar från staten, miljoner euro efter år och överföring",
+          "variable_count": 2,
+          "path": "Statistik/OF/Avslutade/OF009.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    },
+    "RV": {
+      "RV001.px": {
+        "title": "Brott och deras uppklarning efter År, Typ av brott och Typ av uppgift",
+        "variable_count": 3,
+        "path": "Statistik/RV/RV001.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "RV002.px": {
+        "title": "Brottsoffer efter Kön, Typ av brott och År",
+        "variable_count": 3,
+        "path": "Statistik/RV/RV002.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "RV003.px": {
+        "title": "Misstänkta för utredda brott efter Kön, Typ av brott och År",
+        "variable_count": 3,
+        "path": "Statistik/RV/RV003.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    },
+    "SO": {
+      "SO002.px": {
+        "title": "Klienter i åldringsvården efter kommun, år och typ av åldringsvård",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO002.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO003.px": {
+        "title": "Pensionstagare efter år, region, pensionsslag och pensionstagare",
+        "variable_count": 4,
+        "path": "Statistik/SO/SO003.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO004.px": {
+        "title": "Föräldradagpenningars mottagare, ersatta dagar och utbetalda belopp efter år, mottagarens kön, förmånsslag och enhet",
+        "variable_count": 4,
+        "path": "Statistik/SO/SO004.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO005.px": {
+        "title": "Pensionstagare 31.12.1992-2024 efter ålder, år och kön",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO005.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO006.px": {
+        "title": "Pensionsutgifter 2000-2024 efter år, kommun och pensionssystem",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO006.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO007.px": {
+        "title": "Årsverken inom socialvården efter Kommun/kommunalförbund, Typ av uppgift, År och Kön",
+        "variable_count": 4,
+        "path": "Statistik/SO/SO007.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO008.px": {
+        "title": "Barnbidrag efter år, region och antal barn, antal barnfamiljer och utbetalt belopp",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO008.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO009.px": {
+        "title": "Sjukvårdsersättningar efter år, förmånsslag, kommun och mottagare och utbetald ersättning",
+        "variable_count": 4,
+        "path": "Statistik/SO/SO009.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO010.px": {
+        "title": "Sjukdagpenningars mottagare, ersatta dagar och utbetalda belopp efter år, enhet och kön",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO010.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO011.px": {
+        "title": "Klienter i institutionsvård och boendeservice för äldre efter kommun, år och typ av åldringsvård",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO011.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO012.px": {
+        "title": "Stöd för närståendevård efter år, vårdade och vårdare och kön",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO012.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO013.px": {
+        "title": "Stöd för närståendevård för klienter i åldern 65 år eller äldre, vårdade under året efter region, år och ålder",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO013.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO014.px": {
+        "title": "Antal hushåll som fått hemservice efter år, kommun, hushåll och ålder",
+        "variable_count": 4,
+        "path": "Statistik/SO/SO014.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO015.px": {
+        "title": "Antal hushåll som fått hemservice på Åland efter hushåll och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO015.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO016.px": {
+        "title": "Hemvårdsstöd, antal mottagare efter kommun och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO016.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO017.px": {
+        "title": "Hemvårdsstöd, antal mottagare efter kön och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO017.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO018.px": {
+        "title": "Hemvårdsstöd, antal mottagare efter typ av stöd och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO018.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO019.px": {
+        "title": "Hemvårdsstöd, antal stödmånader efter typ av stöd och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO019.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO020.px": {
+        "title": "Antal barn för vilka hemvårdsstöd betalas ut efter kommun och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO020.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO021.px": {
+        "title": "Barnskyddsanmälningar och barn som berörs efter antal anmälningar och barn, region och år",
+        "variable_count": 3,
+        "path": "Statistik/SO/SO021.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO022.px": {
+        "title": "Klienter i öppenvård inom missbrukarvården efter region och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO022.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "SO023.px": {
+        "title": "Antal fall/familjer som erhållit utkomststöd 2010-2023 efter region och år",
+        "variable_count": 2,
+        "path": "Statistik/SO/SO023.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    },
+    "TUTRSJ": {
+      "SJ": {
+        "Handelsflottan, sysselsättning, resande": {
+          "SJ002.px": {
+            "title": "Den åländskägda handelsflottan, inklusive landskapsägda färjor, efter år, fartygskategori och typ av uppgift",
+            "variable_count": 3,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ003.px": {
+            "title": "Den åländskägda handelsflottan, inklusive landskapsägda färjor efter år, antal/bruttoton och flaggstat",
+            "variable_count": 3,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ003.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ004.px": {
+            "title": "Den åländskregistrerade handelsflottan efter år, fartygskategori, antal, bruttoton och ålder",
+            "variable_count": 4,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ004.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ005.px": {
+            "title": "Sysselsatta inom sjötransport på Åland efter år och kön",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ006.px": {
+            "title": "Arbetande inom sjötransport. Inkl. finländsk personal på åländskregistrerade fartyg ägda av åländska rederier, efter år och kön",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ006.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ011.px": {
+            "title": "Resande till och från utlandet på åländska hamnar 1999-2024, efter hamn",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ011.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ012.px": {
+            "title": "Passagerare på taxfreeresor till och via Åland 2003-2024, efter rutt",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ012.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ021.px": {
+            "title": "Godstrafik med fartyg mellan Åland och Finland efter år, riktning, hamn och varuslag",
+            "variable_count": 4,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ021.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ022.px": {
+            "title": "Utrikes sjötransporter efter år, riktning, hamn och varuslag",
+            "variable_count": 4,
+            "path": "Statistik/TUTRSJ/SJ/Handelsflottan, sysselsättning, resande/SJ022.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Konjunkturstatistik för sjöfarten": {
+          "SJ101.px": {
+            "title": "Priset på lågsvavlig marindiesel (LSMGO) i Rotterdam 2014-2024 (USD/ton), efter månad",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Konjunkturstatistik för sjöfarten/SJ101.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ102.px": {
+            "title": "Index för internationell torrlastfrakt 2011-2024 (Baltic Dry Index, 1985 = 1 000) efter månad",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Konjunkturstatistik för sjöfarten/SJ102.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "SJ104.px": {
+            "title": "Index för tankerfrakter på rutter mellan nordvästeuropeiska hamnar (Worldscale, Aframax tankers; 70 000-100 000 dwt) 2008-2023 efter månad",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/SJ/Konjunkturstatistik för sjöfarten/SJ104.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        }
+      },
+      "TR": {
+        "TR001.px": {
+          "title": "Antal registrerade fordon enligt innehavarens hemkommun efter år, kommun och fordonstyp",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR001.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR002.px": {
+          "title": "Trafiken på skärgårdsfärjorna efter linje, år och passagerare/fordon",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR003.px": {
+          "title": "Antal utfärdade körkort 2011-2024 efter fordonsklass, år och kön",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR004.px": {
+          "title": "Trafikolyckor på Åland efter år, kommun och information",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR005.px": {
+          "title": "Sammanstötning med djur efter år, kommun, Källa och information",
+          "variable_count": 4,
+          "path": "Statistik/TUTRSJ/TR/TR005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR006.px": {
+          "title": "Trafikolyckor på Åland efter år, månad och information",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR006.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR007.px": {
+          "title": "Trafikolyckor på Åland efter år, olyckstyp och information",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR007.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR008.px": {
+          "title": "Inblandade personer i trafikolyckor på Åland efter år, fordonstyp och information",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR008.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR009.px": {
+          "title": "Inblandade personer i trafikolyckor på Åland efter år, kön, åldersgrupp och Information",
+          "variable_count": 4,
+          "path": "Statistik/TUTRSJ/TR/TR009.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR010.px": {
+          "title": "Vägtrafikolyckor efter år, region och omfattning",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR010.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR011.px": {
+          "title": "Trafikolyckor på Åland kvartalsvis efter år, kvartal och information",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR011.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR012.px": {
+          "title": "Busslinjetrafiken på Åland efter år och linje",
+          "variable_count": 2,
+          "path": "Statistik/TUTRSJ/TR/TR012.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR013.px": {
+          "title": "Fordonsbeståndets utveckling efter år och fordonstyp",
+          "variable_count": 2,
+          "path": "Statistik/TUTRSJ/TR/TR013.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR014.px": {
+          "title": "Fördelning av fordon efter första bruksår, år och fordonstyp",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR014.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR015.px": {
+          "title": "Trafiken på Mariehamns flygplats efter år, information och typ av trafik",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR015.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR016.px": {
+          "title": "Antal körkort registrerade på Åland efter år, bostadsort, kön och ålder",
+          "variable_count": 4,
+          "path": "Statistik/TUTRSJ/TR/TR016.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "TR017.px": {
+          "title": "Ankommande fartyg efter år, antal och nettodräktighet och hamn",
+          "variable_count": 3,
+          "path": "Statistik/TUTRSJ/TR/TR017.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "TU": {
+        "Gästhamnar": {
+          "TU006.px": {
+            "title": "Båtnätter i gästhamnarna efter år, region och gästernas hemland",
+            "variable_count": 3,
+            "path": "Statistik/TUTRSJ/TU/Gästhamnar/TU006.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "TU007.px": {
+            "title": "Båtnätter i gästhamnarna efter år, region och månad",
+            "variable_count": 3,
+            "path": "Statistik/TUTRSJ/TU/Gästhamnar/TU007.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Inkvartering": {
+          "Avslutade tidsserier": {
+            "TU003.px": {
+              "title": "Antal hotellövernattningar efter år och gästernas hemland",
+              "variable_count": 2,
+              "path": "Statistik/TUTRSJ/TU/Inkvartering/Avslutade tidsserier/TU003.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "TU004.px": {
+              "title": "Antal övernattningar efter år, gästernas hemland och anläggningstyp",
+              "variable_count": 3,
+              "path": "Statistik/TUTRSJ/TU/Inkvartering/Avslutade tidsserier/TU004.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            }
+          },
+          "TU008.px": {
+            "title": "Anlända gäster och övernattningar efter år, månad, enhet, anläggningstyp och gästernas hemland",
+            "variable_count": 5,
+            "path": "Statistik/TUTRSJ/TU/Inkvartering/TU008.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "TU009.px": {
+            "title": "Anlända gäster och övernattningar efter gästernas hemland, enhet, år och inkvarteringstyp",
+            "variable_count": 4,
+            "path": "Statistik/TUTRSJ/TU/Inkvartering/TU009.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "TU010.px": {
+            "title": "Hotellövernattningar efter år, månad, region och gästernas hemland",
+            "variable_count": 4,
+            "path": "Statistik/TUTRSJ/TU/Inkvartering/TU010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "TU011.px": {
+            "title": "Övernattningar på campingplatserna efter år, månad, inkvarteringsform och enhet",
+            "variable_count": 4,
+            "path": "Statistik/TUTRSJ/TU/Inkvartering/TU011.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Inresande": {
+          "TU002.px": {
+            "title": "Inresande till Åland efter år och land",
+            "variable_count": 2,
+            "path": "Statistik/TUTRSJ/TU/Inresande/TU002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "TU005.px": {
+            "title": "Inresande till Åland 1994-2025 efter år, månad och avreseland och transportmedel",
+            "variable_count": 3,
+            "path": "Statistik/TUTRSJ/TU/Inresande/TU005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        }
+      }
+    },
+    "UTKU": {
+      "KU": {
+        "KU002.px": {
+          "title": "Biblioteksverksamheten 2002-2023 efter kommun, år och verksamhet",
+          "variable_count": 3,
+          "path": "Statistik/UTKU/KU/KU002.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KU003.px": {
+          "title": "De kommunala bibliotekens låntagare efter ålder, år och kön",
+          "variable_count": 3,
+          "path": "Statistik/UTKU/KU/KU003.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KU004.px": {
+          "title": "Utlåning på kommunalbiblioteken 2016-2023 efter litteraturtyp, år och låntagarens kön",
+          "variable_count": 3,
+          "path": "Statistik/UTKU/KU/KU004.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KU005.px": {
+          "title": "De kommunala bibliotekens kostnader för media och personal 2019-2023 efter kommun, år och kostnadsslag",
+          "variable_count": 3,
+          "path": "Statistik/UTKU/KU/KU005.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "KU006.px": {
+          "title": "Församlingarnas folkmängd och ekonomi efter år, församling och enhet",
+          "variable_count": 3,
+          "path": "Statistik/UTKU/KU/KU006.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      },
+      "UT": {
+        "Avslutade": {
+          "UT004.px": {
+            "title": "Studerande efter grundskolan samt vid Högskolan på Åland hösten efter kön, läroinrättning, utbildningsprogram och år",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Avslutade/UT004.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT005.px": {
+            "title": "Avlagda examina på gymnasialstadie- och högre nivå på Åland efter kön, läroinrättning, utbildningsprogram och år",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Avslutade/UT005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT010.px": {
+            "title": "Antal barn inom barnsomsorgen efter Kommun, Vårdform, År och Ålder",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Avslutade/UT010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT012.px": {
+            "title": "Avlagda examina efter examensår, kön, utbildningsnivå, utbildningsområde och åldersgrupp",
+            "variable_count": 5,
+            "path": "Statistik/UTKU/UT/Avslutade/UT012.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT012_barnomsorg.px": {
+            "title": "Antal barn inom barnomsorgen efter Kön, Kommun, År och Ålder",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Avslutade/UT012_barnomsorg.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT026.px": {
+            "title": "Platser, sökande och antagna vid åländsk utbildning på gymnasienivå efter år, utbildningsområde och antal personer",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Avslutade/UT026.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT029.px": {
+            "title": "Studerande i läroavtalsutbildning efter år, kön, utbildningsområde och utbildningstyp",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Avslutade/UT029.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT031.px": {
+            "title": "Studerande utanför Åland 2007-2016 efter utbildningsnivå, utbildningsområde, år, studieland och kön",
+            "variable_count": 5,
+            "path": "Statistik/UTKU/UT/Avslutade/UT031.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT033.px": {
+            "title": "Platser, sökande och antagna vid åländsk utbildning på gymnasienivå efter år, utbildningsområde och antal personer",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Avslutade/UT033.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT057.px": {
+            "title": "Studerande efter grundskolan samt vid Högskolan på Åland efter Kön, Utbildningsområde och År",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Avslutade/UT057.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Barnomsorg": {
+          "UT009.px": {
+            "title": "Antal barn inom barnsomsorgen efter Kommun, Verksamhetsform, År och Ålder",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Barnomsorg/UT009.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT010.px": {
+            "title": "Antal barn inom barnsomsorgen efter Kommun, Verksamhetsform, Vistelsetid, År och Ålder",
+            "variable_count": 5,
+            "path": "Statistik/UTKU/UT/Barnomsorg/UT010.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT011.px": {
+            "title": "Andel barn inskrivna i daghemsverksamhet eller familjedagvård efter År, Ålder och Region",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Barnomsorg/UT011.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT012.px": {
+            "title": "Daghemsverksamhet efter År, Kommun och Uppgift",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Barnomsorg/UT012.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT013.px": {
+            "title": "Antal årsverken inom barnomsorgen efter Kommun, Omsorgs/pedagogiskt uppdrag, År och Kön",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Barnomsorg/UT013.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT014.px": {
+            "title": "Antal årsverken inom barnomsorgen efter År, Typ av uppgift, Region och Kön",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Barnomsorg/UT014.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Befolkningens utbildning": {
+          "UT080.px": {
+            "title": "Befolkningen 15 år och äldre efter Kön, Ålder, År och Utbildningsområde",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Befolkningens utbildning/UT080.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT081.px": {
+            "title": "Befolkningen 15 år och äldre efter Kön, Ålder, År och Utbildningsnivå",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Befolkningens utbildning/UT081.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Grundskolan": {
+          "UT001.px": {
+            "title": "Elever i grundskolan efter År, Kön, Årskurs och Skola",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT001.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT002.px": {
+            "title": "Antal elever i grundskolan efter År och Stadium",
+            "variable_count": 2,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT002.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT003.px": {
+            "title": "Elever i grundskolan efter Hemkommun och År",
+            "variable_count": 2,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT003.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT004.px": {
+            "title": "Antal elever med stöd för lärande och skolgång efter År, Typ av stöd, Stadium och Kön",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT004.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT005.px": {
+            "title": "Andel högstadieelever som läser inget, ett eller två frivilliga språk efter År, Antal språk och Skola",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT005.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT006.px": {
+            "title": "Andel grundskoleelever som läser frivilliga språk efter År, Språk, Kön och Årskurs",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT006.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT007.px": {
+            "title": "Antal elever i grundskolan efter Modersmål och År",
+            "variable_count": 2,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT007.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT008.px": {
+            "title": "Elever i grundskolan efter Hemkommun, År och Typ av skola",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Grundskolan/UT008.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Lärare": {
+          "UT021.px": {
+            "title": "Andel behöriga lärare i grundskolan och på gymnasienivå efter År, Typ av uppgift och Utbildningsnivå",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Lärare/UT021.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT022.px": {
+            "title": "Lärare efter År, Åldersgrupp, Utbildningsnivå och Kön",
+            "variable_count": 4,
+            "path": "Statistik/UTKU/UT/Lärare/UT022.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "Studerande utanför ax": {
+          "UT023.px": {
+            "title": "Studerande utanför Åland efter år, studieland, utbildningsnivå, kön och åldersgrupp",
+            "variable_count": 5,
+            "path": "Statistik/UTKU/UT/Studerande utanför ax/UT023.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT024.px": {
+            "title": "Studerande utanför Åland efter studieland, skola och år",
+            "variable_count": 3,
+            "path": "Statistik/UTKU/UT/Studerande utanför ax/UT024.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UT036.px": {
+            "title": "Studerande utanför Åland efter år, utbildningsnivå, utbildningsområde, studieland och kön",
+            "variable_count": 5,
+            "path": "Statistik/UTKU/UT/Studerande utanför ax/UT036.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "UT079.px": {
+          "title": "Mottagare av studiestöd efter studieland, studienivå, typ av stöd och år",
+          "variable_count": 4,
+          "path": "Statistik/UTKU/UT/UT079.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "Utb efter grundskolan": {
+          "Gymnasienivå": {
+            "UT041.px": {
+              "title": "Platser, sökande och antagna på gymnasienivå efter År, Utbildningsprogram och Typ av uppgift",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT041.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT051.px": {
+              "title": "Studerande på gymnasienivå efter Kön, Skola, Utbildningsprogram och År",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT051.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT052.px": {
+              "title": "Studerande på gymnasienivå efter Kön, Skola, År och Hemort",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT052.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT057.px": {
+              "title": "Studerande på gymnasienivå efter Hemort, Kön, Utbildningsområde och År",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT057.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT071.px": {
+              "title": "Avlagda examina på gymnasienivå efter kön, skola, år och hemort",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT071.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT073.px": {
+              "title": "Avlagda examina på gymnasienivå efter kön, skola, utbildningsprogram och år",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT073.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT075.px": {
+              "title": "Avlagda examina på gymnasienivå efter år, utbildningsområde, hemort och kön",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT075.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT077.px": {
+              "title": "Avlagda examina på gymnasienivå efter år, kön, utbildningsområde och åldersgrupp",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Gymnasienivå/UT077.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            }
+          },
+          "Högskolan vid Åland": {
+            "UT042.px": {
+              "title": "Platser, sökande, och antagna vid Högskolan på Åland efter År, Utbildningsprogram och Typ av uppgift",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT042.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT053.px": {
+              "title": "Studerande vid Högskolan på Åland efter Kön, Utbildningsprogram och År",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT053.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT054.px": {
+              "title": "Studerande vid Högskolan på Åland efter Kön, Hemort och År",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT054.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT058.px": {
+              "title": "Studerande vid Högskolan på Åland efter Hemort, Kön, Utbildningsområde och År",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT058.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT072.px": {
+              "title": "Avlagda examina vid Högskolan på Åland efter kön, år och hemort",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT072.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT074.px": {
+              "title": "Avlagda examina vid Högskolan på Åland efter kön, utbildningsprogram och år",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT074.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT076.px": {
+              "title": "Avlagda examina vid Högskolan på Åland efter år, utbildningsområde, hemort och kön",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT076.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT078.px": {
+              "title": "Avlagda examina vid Högskolan på Åland efter år, kön, utbildningsområde och åldersgrupp",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Högskolan vid Åland/UT078.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            }
+          },
+          "Övrig utbildning": {
+            "UT043.px": {
+              "title": "Platser, sökande och antagna vid Ålands folkhögskola efter År, Utbildning och Typ av uppgift",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Övrig utbildning/UT043.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT055.px": {
+              "title": "Studerande vid Ålands folkhögskola efter Kön, Utbildning och År",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Övrig utbildning/UT055.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT056.px": {
+              "title": "Studerande vid Ålands folkhögskola efter Kön, Hemort och År",
+              "variable_count": 3,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Övrig utbildning/UT056.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT061.px": {
+              "title": "Utbildning som inte leder till examen efter skola, kurstyp, typ av uppgift och år",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Övrig utbildning/UT061.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            },
+            "UT062.px": {
+              "title": "Studerande i läroavtalsutbildning efter år, kön, utbildningsområde och utbildningstyp",
+              "variable_count": 4,
+              "path": "Statistik/UTKU/UT/Utb efter grundskolan/Övrig utbildning/UT062.px",
+              "STATUS": "DOWNLOAD_SUCCESS"
+            }
+          }
+        }
+      }
+    },
+    "VA": {
+      "VA001.px": {
+        "title": "Röstberättigade, röstande och valdeltagande i lagtings- och kommunalvalet efter val, ålder, år, valdeltagande och kön",
+        "variable_count": 5,
+        "path": "Statistik/VA/VA001.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA002.px": {
+        "title": "Val till EU-parlamentet efter år, kommun och valdata",
+        "variable_count": 3,
+        "path": "Statistik/VA/VA002.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA003.px": {
+        "title": "Valdeltagande i kommunal-, lagtings-, riksdags-, president- och EU-val efter kommun, val och kön",
+        "variable_count": 3,
+        "path": "Statistik/VA/VA003.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA004.px": {
+        "title": "Kandidater i lagtingsvalen efter år, kommun, åldersgrupp, kön och parti",
+        "variable_count": 5,
+        "path": "Statistik/VA/VA004.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA005.px": {
+        "title": "Kandidater i kommunalvalen efter år, kommun, åldersgrupp, kön och parti",
+        "variable_count": 5,
+        "path": "Statistik/VA/VA005.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA006.px": {
+        "title": "Mandatfördelning i kommunernas fullmäktige efter kommunalvalen efter år, kommun, kön och parti",
+        "variable_count": 4,
+        "path": "Statistik/VA/VA006.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA007.px": {
+        "title": "Mandatfördelning i lagtinget efter lagtingsvalen efter år, parti, kön och kommun",
+        "variable_count": 4,
+        "path": "Statistik/VA/VA007.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA008.px": {
+        "title": "Valdeltagande i riksdagsvalen 1917-2023 efter kön, kommun och år",
+        "variable_count": 3,
+        "path": "Statistik/VA/VA008.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA009.px": {
+        "title": "Förtroendevalda efter år, kön, kommun och organtyp",
+        "variable_count": 4,
+        "path": "Statistik/VA/VA009.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA010.px": {
+        "title": "Förtroendevalda efter år, kön, organtyp, uppdrag och åldersklass",
+        "variable_count": 5,
+        "path": "Statistik/VA/VA010.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA011.px": {
+        "title": "Godkända röster i kommunalvalen efter år, kommun, kandidatens kön och politisk gruppering",
+        "variable_count": 4,
+        "path": "Statistik/VA/VA011.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA012.px": {
+        "title": "Godkända röster i lagtingsvalet efter år, kandidatens kön och politisk gruppering",
+        "variable_count": 3,
+        "path": "Statistik/VA/VA012.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA013.px": {
+        "title": "Röstberättigade, röstande och valdeltagande i lagtings- och kommunalvalen 1995-2023 efter år, kommun, val och kön",
+        "variable_count": 4,
+        "path": "Statistik/VA/VA013.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA014.px": {
+        "title": "Röstande i lagtings- och kommunalvalen 1999-2023 efter år, kommun, val, röstningstidpunkt, antal, andel och kön",
+        "variable_count": 6,
+        "path": "Statistik/VA/VA014.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA015.px": {
+        "title": "Röstberättigade, röstande och valdeltagande i lagtingsvalet 2003-2023 efter år, bostadsort, valdeltagande, kön och ålder",
+        "variable_count": 5,
+        "path": "Statistik/VA/VA015.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "VA016.px": {
+        "title": "Röstberättigade, röstande och valdeltagande i kommunalvalen 2003-2023 efter år, hembygdsrätt, kön, valdeltagande och ålder",
+        "variable_count": 5,
+        "path": "Statistik/VA/VA016.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    }
+  },
+  "Utredning": {
+    "Arbetsmarknadsbarometer": {
+      "AMB01.px": {
+        "title": "Förväntningar på sysselsättningsförändring samt antal rekryteringar det närmsta året efter Värde, bransch och år",
+        "variable_count": 3,
+        "path": "Utredning/Arbetsmarknadsbarometer/AMB01.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    },
+    "Utbildning och arbetsmarknad 2035": {
+      "ALEMPLOY.px": {
+        "title": "Sysselsättningen av på Åland boende efter scenario och år",
+        "variable_count": 2,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/ALEMPLOY.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "DEPRATE.px": {
+        "title": "Försörjningsgrad 20-64 år efter scenario och år",
+        "variable_count": 2,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/DEPRATE.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "EMPRATOT.px": {
+        "title": "Sysselsättningsgrad 15-74 år efter scenario och år",
+        "variable_count": 2,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/EMPRATOT.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "EXAMS.px": {
+        "title": "Antalet examen tagna på Åland efter skola, nivå, utbildningsområde, scenario och år",
+        "variable_count": 5,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/EXAMS.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "GDP1.px": {
+        "title": "BNP efter efterfrågekomponent i fasta 2015-års priser, miljoner euro",
+        "variable_count": 3,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/GDP1.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "GDP2.px": {
+        "title": "Förädlingsvärde i 2015-års priser, miljoner euro efter bransch, scenario och år",
+        "variable_count": 3,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/GDP2.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "INMIG.px": {
+        "title": "Inflyttning efter ålder, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/INMIG.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "LABOUT.px": {
+        "title": "Avgångar från arbetsmarknaden, personer efter kön, scenario och år",
+        "variable_count": 3,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/LABOUT.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "OUTMIG.px": {
+        "title": "Utflyttning efter ålder, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/OUTMIG.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "POPACOH.px": {
+        "title": "Åldersgrupperad befolkning efter åldersgrupp, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/POPACOH.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "POPAGEM.px": {
+        "title": "Befolkning i bredare åldersgrupper (LS-andelsgrupper) efter åldersgrupp, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/POPAGEM.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "POPDIS.px": {
+        "title": "Detaljerade befolkningsuppgifter efter ålder, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/POPDIS.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "POPTOT.px": {
+        "title": "Totalbefolkningen efter scenario och år",
+        "variable_count": 2,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/POPTOT.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "QFLAB.px": {
+        "title": "Arbetskraftsefterfrågan (inom området arbetande) efter utbildningsnivå, bransch, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/QFLAB.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "QFLABFED.px": {
+        "title": "Arbetskraftsefterfrågan efter utbildningsnivå, utbildningsområde, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/QFLABFED.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "QFLABOCCU.px": {
+        "title": "Arbetskraftsefterfrågan efter utbildningsnivå, yrkesgrupp, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/QFLABOCCU.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "QFLABSEX.px": {
+        "title": "Arbetskraftsefterfrågan efter utbildningsnivå, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/QFLABSEX.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "QLABDOM.px": {
+        "title": "Arbetskraftsutbud av på Åland boende efter utbildningsnivå, scenario och år",
+        "variable_count": 3,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/QLABDOM.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "RECRFED.px": {
+        "title": "Rekryteringsbehov efter Utbildningsnivå, Utbildningsområde, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/RECRFED.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "RECROCCU.px": {
+        "title": "Rekryteringsbehov efter utbildningsnivå, yrkesgrupp, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/RECROCCU.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "RECRSEX.px": {
+        "title": "Rekryteringsbehov efter utbildningsnivå, kön, scenario och år",
+        "variable_count": 4,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/RECRSEX.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      },
+      "UNEMPRO.px": {
+        "title": "Arbetslöshetsgrad på Åland efter scenario och år",
+        "variable_count": 2,
+        "path": "Utredning/Utbildning och arbetsmarknad 2035/UNEMPRO.px",
+        "STATUS": "DOWNLOAD_SUCCESS"
+      }
+    },
+    "Äldre utredningar eller scenarier": {
+      "Scenarier2013": {
+        "AR": {
+          "BALAFED.px": {
+            "title": "Förändring i utbud minus förändring i efterfrågan på arbetskraft, personer efter utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/BALAFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "BALAOCCU.px": {
+            "title": "Förändring i utbud minus förändring i efterfrågan på arbetskraft, personer efter utbildningsnivå, yrkesgrupp, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/BALAOCCU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "BALASEX.px": {
+            "title": "Förändring i utbud minus förändring i efterfrågan på arbetskraft, personer efter utbildningsnivå, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/BALASEX.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "EXTRECRFED.px": {
+            "title": "Extern rekryteringsbehov, personer (utexaminerade beaktade) efter utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/EXTRECRFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "EXTRECROCCU.px": {
+            "title": "Extern rekryteringsbehov, personer (utexaminerade beaktade) efter utbildningsnivå, yrkesgrupp, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/EXTRECROCCU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "EXTRECSEX.px": {
+            "title": "Extern rekryteringsbehov (utexaminerade beaktade)",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/EXTRECSEX.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "GDP1.px": {
+            "title": "GDP by expenditure component, million euro 2010 prices efter komponent, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/GDP1.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "GDP2.px": {
+            "title": "Förädlingsvärde i 2010-års priser, miljoner euro efter bransch, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/GDP2.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "HHDCONS.px": {
+            "title": "Hushållens konsumtionsutgifter i 2010-års priser, miljoner euro efter produkt, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/HHDCONS.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LABOUTFED.px": {
+            "title": "Avgångar från arbetsmarknaden, personer efter kön, utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/LABOUTFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LABOUTOCC.px": {
+            "title": "Avgångar från arbetsmarknaden, personer efter kön, utbildningsnivå, yrke, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/LABOUTOCC.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "LABOUTSEX.px": {
+            "title": "Avgångar från arbetsmarknaden, personer efter kön, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/LABOUTSEX.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "MUNITAX.px": {
+            "title": "Kommunal effektiv inkomstskattesats, procent av hushållens samtliga bruttoinkomster efter scenario och år",
+            "variable_count": 2,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/MUNITAX.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "PSUBCONS.px": {
+            "title": "Värdet av offentlig konsumtion i 2010-års priser, miljoner euro efter scenario, år, produkt och institution",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/PSUBCONS.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "PUBCONS.px": {
+            "title": "Offentlig konsumtion i 2010-års priser, miljoner euro efter delsektor, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/PUBCONS.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "QAP_INDU.px": {
+            "title": "Förändring i verksamhetsvolymen i förhållande till bascenariot, procent (värde i 2010-års meuro för BASE) efter bransch, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/QAP_INDU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "QFLFED.px": {
+            "title": "Arbetskraftsefterfrågan, antal sysselsatta hos åländska företag efter utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/QFLFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "QFLOCCU.px": {
+            "title": "Arbetskraftsefterfrågan hos åländska företagen, inklusive inpendling efter utbildningsnivå, yrkesgrupp, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/QFLOCCU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "QFLSEX.px": {
+            "title": "Arbetskraftsefterfrågan, enskilda personer efter utbildningsnivå, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/QFLSEX.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "RECRFED.px": {
+            "title": "Rekryteringsbehov, personer efter utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/RECRFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "RECROCCU.px": {
+            "title": "Rekryteringsbehov, personer efter utbildningsnivå, yrkesgrupp, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/RECROCCU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "RECRSEX.px": {
+            "title": "Rekryteringsbehov, personer",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/RECRSEX.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "UNEMPRO.px": {
+            "title": "Arbetslöshet i procent av arbetskraft (inklusive placerade med åtgärder)",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/AR/UNEMPRO.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        },
+        "BE": {
+          "EXAMS.px": {
+            "title": "Antal avlagda exam vid åländska läroanstalt efter skola, scenario och år",
+            "variable_count": 3,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/EXAMS.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "EXAMSFED.px": {
+            "title": "Antalet utexaminerade, personer efter skola, utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/EXAMSFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "INMIGDEM.px": {
+            "title": "Inflyttning med demografiska variabler, personer efter ålder, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/INMIGDEM.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "INMIGFED.px": {
+            "title": "Inflyttning med utbildningsvariabler, personer efter kön, utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/INMIGFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "INMIGOCCU.px": {
+            "title": "Inflyttning med yrkesvariabel, personer efter kön, utbildningsnivå, yrkesgrupp, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/INMIGOCCU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OUTMIGDEM.px": {
+            "title": "Utflytting med demografiska variabler, personer efter ålder, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/OUTMIGDEM.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OUTMIGFED.px": {
+            "title": "Utflyttning med utbildningsvariabler, personer efter kön, utbildningsnivå, utbildningsområde, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/OUTMIGFED.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "OUTMIGOCCU.px": {
+            "title": "Utflyttning med yrkesvariabel, personer efter kön, utbildningsnivå, yrkesgrupp, scenario och år",
+            "variable_count": 5,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/OUTMIGOCCU.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "POPACOH.px": {
+            "title": "Befolkningsmängd i åldergrupper efter åldersgrupp, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/POPACOH.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "POPAGEM.px": {
+            "title": "Befolkningsmängd, personer efter åldersgrupp, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/POPAGEM.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          },
+          "POPDIS.px": {
+            "title": "Befolkning i årets slut, personer efter ålder, kön, scenario och år",
+            "variable_count": 4,
+            "path": "Utredning/Äldre utredningar eller scenarier/Scenarier2013/BE/POPDIS.px",
+            "STATUS": "DOWNLOAD_SUCCESS"
+          }
+        }
+      },
+      "Skatteutredning": {
+        "11_MIG.px": {
+          "title": "Flyttningsnetto, enskilda personer efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/11_MIG.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "12_POPTOT.px": {
+          "title": "Befolkningsmängden i slutet av året efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/12_POPTOT.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "13_POPDIS.px": {
+          "title": "Befolkning i ettårsgrupper efter ålder, kön, scenario och år",
+          "variable_count": 4,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/13_POPDIS.px",
+          "STATUS": "DOWNLOAD_FAILED"
+        },
+        "14_POPUACOH.px": {
+          "title": "Befolkning vid årets början efter åldersgrupp, kön, scenario och år",
+          "variable_count": 4,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/14_POPUACOH.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "15_POPUAGEM.px": {
+          "title": "Befolkning vid årets slut grupperad enligt enligt landskapsandelsgrunderna efter åldersgrupp, scenario och år",
+          "variable_count": 3,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/15_POPUAGEM.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "21_GDP1.px": {
+          "title": "BNP per efterfrågekomponent i miljoner 2005-års euro efter komponent, scenario och år",
+          "variable_count": 3,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/21_GDP1.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "22_GDP2.px": {
+          "title": "Förädlingsvärde per bransch i 2005-års priser, miljoner euro efter bransch, scenario och år",
+          "variable_count": 3,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/22_GDP2.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "23_PUBCONS.px": {
+          "title": "Offentlig konsumtion i 2005-års priser, miljoner euro efter delsektor, scenario och år",
+          "variable_count": 3,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/23_PUBCONS.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "24_UNEMPRO.px": {
+          "title": "Arbetslöshetsgrad efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/24_UNEMPRO.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "31_YSTATE.px": {
+          "title": "Statens inkomster på Åland i 2005-års priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/31_YSTATE.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "32_ESTATE.px": {
+          "title": "Statens utgifter på Åland i 2005-års fasta priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/32_ESTATE.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "33_LUMP045.px": {
+          "title": "Statens avräkningsbelopp (klumpsumma) till Åland i 2005-års priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/33_LUMP045.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "34_FLITPENG.px": {
+          "title": "Skattegottgörelse i miljoner 2005-års euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/34_FLITPENG.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "35_TIMFIN.px": {
+          "title": "Statens budgetinkomster exklusive inkomster från Åland i 2005-års priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/35_TIMFIN.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "41_YSOC.px": {
+          "title": "Socialskyddsfondernas inkomster på Åland i 2005-års priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/41_YSOC.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "42_ESOC.px": {
+          "title": "Socialfondernas utgifter på Åland i 2005-års fasta priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/42_ESOC.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "43_SOCSAV.px": {
+          "title": "Socialskyddsfondernas sparande på Åland (Inkomster - utgifter) i 2005-års priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/43_SOCSAV.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "51_YMUNI.px": {
+          "title": "Kommunernas och kommunalförbundens inkomster i 2005-års priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/51_YMUNI.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "52_EMUNI.px": {
+          "title": "Åländska kommunernas utgifter i 2005-års fasta priser, miljoner euro efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/52_EMUNI.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "53_MUNITAX.px": {
+          "title": "Kommunal inkomstskattesats, procent av hushållens samtliga bruttoinkomster efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/53_MUNITAX.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "61_YG.px": {
+          "title": "Landskapets inkomster, miljoner euro i 2005-års priser efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/61_YG.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        },
+        "62_EG.px": {
+          "title": "Landskapsregeringens utgifter, i miljoner euro i 2005-års priser efter scenario och år",
+          "variable_count": 2,
+          "path": "Utredning/Äldre utredningar eller scenarier/Skatteutredning/62_EG.px",
+          "STATUS": "DOWNLOAD_SUCCESS"
+        }
+      }
+    }
+  }
+}

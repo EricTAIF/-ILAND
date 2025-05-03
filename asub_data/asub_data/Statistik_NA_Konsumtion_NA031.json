@@ -1,0 +1,130 @@
+{
+  "class": "dataset",
+  "label": "Hushållens genomsnittliga konsumtion utanför Åland år 2006 efter varugrupp och region",
+  "source": "Ålands statistik- och utredningsbyrå (ÅSUB)",
+  "updated": "2008-07-30T06:00:00Z",
+  "id": [
+    "varugrupp",
+    "region"
+  ],
+  "size": [
+    11,
+    5
+  ],
+  "dimension": {
+    "varugrupp": {
+      "label": "varugrupp",
+      "category": {
+        "index": {
+          "Totalt": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10
+        },
+        "label": {
+          "Totalt": "Totalt",
+          "1": "Livsmedel och alkoholfria drycker",
+          "2": "Alkoholdrycker och tobak",
+          "3": "Kläder och skodon",
+          "4": "Tidningar, böcker och musik",
+          "5": "Inventarier, hushållsmaskiner och -utrustning",
+          "6": "Bilar, motorcyklar och båtar (köp - inte hyrning)",
+          "7": "Transportkostnader (inkl. flyg, paketresor, taxi, färjor, bensin etc.)",
+          "8": "Hotell, kaféer och restauranger",
+          "9": "Andra varor, bl.a hobby-och sportartiklar, leksaker",
+          "10": "Andra tjänster (te.x. hälsotjänster, kultur, underhållning, frisör, o.d.)"
+        }
+      }
+    },
+    "region": {
+      "label": "region",
+      "category": {
+        "index": {
+          "Totalt": 0,
+          "AH3": 1,
+          "AH4": 2,
+          "AH5": 3,
+          "AH6": 4
+        },
+        "label": {
+          "Totalt": "Utanför Åland totalt",
+          "AH3": "Finland",
+          "AH4": "Sverige",
+          "AH5": "Färjor",
+          "AH6": "Övrigt"
+        }
+      }
+    }
+  },
+  "value": [
+    2879.1,
+    832.9,
+    1269.3,
+    544,
+    232.9,
+    322,
+    96.7,
+    199.5,
+    19.8,
+    6,
+    324.4,
+    11.7,
+    1.1,
+    304.9,
+    6.7,
+    277.9,
+    138.3,
+    128.4,
+    4,
+    7.3,
+    180.2,
+    39,
+    100.4,
+    31.3,
+    9.6,
+    403.8,
+    183.2,
+    198.4,
+    0,
+    22.2,
+    337.7,
+    76,
+    218.6,
+    0,
+    43.1,
+    136.7,
+    59.8,
+    68.8,
+    0,
+    8.1,
+    443.8,
+    76.5,
+    114.2,
+    180,
+    73.1,
+    447.3,
+    151.9,
+    239.8,
+    3.9,
+    51.7,
+    5.3,
+    0,
+    0,
+    0,
+    5.3
+  ],
+  "role": {},
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 1
+    }
+  }
+}

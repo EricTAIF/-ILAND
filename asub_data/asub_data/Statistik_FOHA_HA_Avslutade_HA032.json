@@ -1,0 +1,175 @@
+{
+  "class": "dataset",
+  "label": "Import och Export (1 000 euro) efter handelsvariabel och år",
+  "source": "Ålands statistik- och utredningsbyrå (ÅSUB)",
+  "updated": "2007-11-19T07:00:00Z",
+  "id": [
+    "handelsvariabel",
+    "år"
+  ],
+  "size": [
+    9,
+    10
+  ],
+  "dimension": {
+    "handelsvariabel": {
+      "label": "handelsvariabel",
+      "category": {
+        "index": {
+          "Import, utrikes": 0,
+          "Import, skattegräns": 1,
+          "Import totalt": 2,
+          "Export, utrikes": 3,
+          "Export, skattegräns": 4,
+          "Export totalt": 5,
+          "Handelsnetto, utrikes": 6,
+          "Handelsnetto, skattegräns": 7,
+          "Handelsnetto totalt": 8
+        },
+        "label": {
+          "Import, utrikes": "Import, utrikes",
+          "Import, skattegräns": "Import, skattegräns",
+          "Import totalt": "Import totalt",
+          "Export, utrikes": "Export, utrikes",
+          "Export, skattegräns": "Export, skattegräns",
+          "Export totalt": "Export totalt",
+          "Handelsnetto, utrikes": "Handelsnetto, utrikes",
+          "Handelsnetto, skattegräns": "Handelsnetto, skattegräns",
+          "Handelsnetto totalt": "Handelsnetto totalt"
+        }
+      }
+    },
+    "år": {
+      "label": "år",
+      "category": {
+        "index": {
+          "2001": 0,
+          "2002": 1,
+          "2003": 2,
+          "2004": 3,
+          "2005": 4,
+          "2006": 5,
+          "2007": 6,
+          "2008": 7,
+          "2009": 8,
+          "2010": 9
+        },
+        "label": {
+          "2001": "2001",
+          "2002": "2002",
+          "2003": "2003",
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010"
+        }
+      }
+    }
+  },
+  "value": [
+    94094,
+    100509,
+    102608,
+    135420,
+    148324,
+    144973,
+    207200,
+    117050,
+    166830,
+    179406,
+    219220,
+    212023,
+    212615,
+    236981,
+    227218,
+    229797,
+    243704,
+    249900,
+    229052,
+    244182,
+    313315,
+    312532,
+    315222,
+    372400,
+    375542,
+    374769,
+    450905,
+    366950,
+    395882,
+    423588,
+    43400,
+    40454,
+    47943,
+    49250,
+    50724,
+    56807,
+    62897,
+    58095,
+    49873,
+    49815,
+    71847,
+    60309,
+    70450,
+    74370,
+    77334,
+    77781,
+    82967,
+    84460,
+    77593,
+    103108,
+    115246,
+    100763,
+    118393,
+    123621,
+    128059,
+    134588,
+    145864,
+    142556,
+    127466,
+    152923,
+    -50695,
+    -60055,
+    -54665,
+    -86169,
+    -97600,
+    -88166,
+    -144303,
+    -58954,
+    -116957,
+    -129590,
+    -147374,
+    -151714,
+    -142164,
+    -162610,
+    -149884,
+    -152016,
+    -160738,
+    -165440,
+    -151459,
+    -141074,
+    -198068,
+    -211770,
+    -196829,
+    -248780,
+    -247484,
+    -240182,
+    -305041,
+    -224394,
+    -268416,
+    -270664
+  ],
+  "role": {
+    "time": [
+      "år"
+    ]
+  },
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 0
+    }
+  }
+}

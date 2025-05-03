@@ -1,0 +1,178 @@
+{
+  "class": "dataset",
+  "label": "Handelsnettot, volym i ton (NI2008) efter bransch och år",
+  "source": "Ålands statistik- och utredningsbyrå (ÅSUB)",
+  "updated": "2007-11-12T07:00:00Z",
+  "id": [
+    "bransch",
+    "år"
+  ],
+  "size": [
+    13,
+    7
+  ],
+  "dimension": {
+    "bransch": {
+      "label": "bransch",
+      "category": {
+        "index": {
+          "A": 0,
+          "B-C": 1,
+          "D-E": 2,
+          "F": 3,
+          "G": 4,
+          "H": 5,
+          "I": 6,
+          "J": 7,
+          "K": 8,
+          "L": 9,
+          "M-S": 10,
+          "XX": 11,
+          "Totalt": 12
+        },
+        "label": {
+          "A": "Jordbruk, skogsbruk och fiske",
+          "B-C": "Tillverkning, utvinning av mineral",
+          "D-E": "El-, gas-, värme- och vatten, avlopp. och avfall.",
+          "F": "Byggverksamhet",
+          "G": "Handel; reparation av motorfordon och motorcyklar",
+          "H": "Transport och magasinering",
+          "I": "Hotell- och restaurangverksamhet",
+          "J": "Informations- och kommunikationsverksamhet",
+          "K": "Finans- och försäkringsverksamhet",
+          "L": "Fastighetsverksamhet",
+          "M-S": "Övriga tjänster",
+          "XX": "Övriga aktörer",
+          "Totalt": "Totalt"
+        }
+      }
+    },
+    "år": {
+      "label": "år",
+      "category": {
+        "index": {
+          "2004": 0,
+          "2005": 1,
+          "2006": 2,
+          "2007": 3,
+          "2008": 4,
+          "2009": 5,
+          "2010": 6
+        },
+        "label": {
+          "2004": "2004",
+          "2005": "2005",
+          "2006": "2006",
+          "2007": "2007",
+          "2008": "2008",
+          "2009": "2009",
+          "2010": "2010"
+        }
+      }
+    }
+  },
+  "value": [
+    -1707,
+    -1348,
+    -911.7,
+    -939.5,
+    -1014,
+    -1143.7,
+    -1032.6,
+    73381.9,
+    71837.9,
+    48683.2,
+    59631.4,
+    75887.2,
+    67307.4,
+    55169.1,
+    -220.1,
+    -308.7,
+    -628.9,
+    -130.3,
+    -33.2,
+    -309.6,
+    -344.8,
+    4762.6,
+    21062,
+    -4933.9,
+    29272.5,
+    56608.9,
+    -2304.1,
+    15656.8,
+    -9894.8,
+    -15259,
+    -7167,
+    -2800.7,
+    -7430.8,
+    -18186.6,
+    -16091.4,
+    -914.2,
+    -10756.7,
+    3992.4,
+    -14102.3,
+    -321.7,
+    -401.5,
+    -509,
+    -79.1,
+    -44.1,
+    -196.1,
+    -61.8,
+    -46.2,
+    -271.2,
+    -172,
+    -546.4,
+    -150.8,
+    -25.4,
+    41,
+    116.8,
+    -35.6,
+    -273.2,
+    -56.2,
+    38.3,
+    -2.3,
+    -7.2,
+    -15.4,
+    -27.4,
+    -4.7,
+    -115,
+    -227.5,
+    -23.5,
+    -86.9,
+    -193.8,
+    -30.2,
+    -55.2,
+    121.5,
+    -358.7,
+    -289.4,
+    -311.2,
+    -58,
+    -5086.9,
+    -631.7,
+    -11073.4,
+    -15990.9,
+    -10415.6,
+    -9463.1,
+    -10745.2,
+    -11782.2,
+    -15680.1,
+    53659.7,
+    48493.8,
+    28081.9,
+    61041.7,
+    112754.6,
+    27728.4,
+    36031.5
+  ],
+  "role": {
+    "time": [
+      "år"
+    ]
+  },
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 1
+    }
+  }
+}

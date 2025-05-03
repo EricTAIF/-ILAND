@@ -1,0 +1,138 @@
+{
+  "class": "dataset",
+  "label": "Uppkommet avfall på Åland (NI2002) efter bransch och år",
+  "source": "Ålands statistik- och utredningsbyrå (ÅSUB)",
+  "updated": "2006-08-23T07:50:00Z",
+  "id": [
+    "bransch",
+    "år"
+  ],
+  "size": [
+    21,
+    2
+  ],
+  "dimension": {
+    "bransch": {
+      "label": "bransch",
+      "category": {
+        "index": {
+          "A": 0,
+          "B": 1,
+          "C": 2,
+          "DA": 3,
+          "DB+DC": 4,
+          "DD": 5,
+          "DE": 6,
+          "DF": 7,
+          "DG+DH": 8,
+          "DI": 9,
+          "DJ": 10,
+          "DK+DL+DM": 11,
+          "DN exkl. 37": 12,
+          "E": 13,
+          "F": 14,
+          "G-Q exkl 51.57 och 90": 15,
+          "37": 16,
+          "51.57": 17,
+          "90": 18,
+          "Hushåll": 19,
+          "Totalt": 20
+        },
+        "label": {
+          "A": "Jordbruk, jakt och skogsbruk",
+          "B": "Fiske",
+          "C": "Utvinning av mineral",
+          "DA": "Livsmedels-, dryckesvaru- och tobaksvaruframställning",
+          "DB+DC": "Textil- och beklädnadsvarutillverkning",
+          "DD": "Trävarutillverkning",
+          "DE": "Massa-, och pappersvarutillverkning, förlagsverksamhet",
+          "DF": "Tillverkning av stenkol., petroleum och kärnbränsle",
+          "DG+DH": "Tillverkning av kemikalier, gummi- och plastvaror",
+          "DI": "Tillverkning av icke-metalliska mineraliska produkter",
+          "DJ": "Metallframställning och metallvarutillverkning",
+          "DK+DL+DM": "Tilverkning av maskiner, el- och optikprodukter",
+          "DN exkl. 37": "Övrig tillverkning",
+          "E": "El-, gas-, ång-, hetvatten- och vattenförsörjning",
+          "F": "Byggverksamhet",
+          "G-Q exkl 51.57 och 90": "Tjänster (bla. parti- och detaljhandel, restaurang)",
+          "37": "Återvinning",
+          "51.57": "Partihandel med avfallsprodukter och skrot",
+          "90": "Avloppsrening, avfallshantering, renhållning o.d.",
+          "Hushåll": "Hushåll",
+          "Totalt": "Totalt"
+        }
+      }
+    },
+    "år": {
+      "label": "år",
+      "category": {
+        "index": {
+          "2004": 0,
+          "2006": 1
+        },
+        "label": {
+          "2004": "2004",
+          "2006": "2006"
+        }
+      }
+    }
+  },
+  "value": [
+    233,
+    277.2,
+    404.8,
+    772.9,
+    null,
+    0.4,
+    3472.2,
+    2144.3,
+    13.2,
+    null,
+    684.6,
+    829.8,
+    112.8,
+    367.8,
+    null,
+    null,
+    78.2,
+    136.7,
+    27.6,
+    23.7,
+    33.4,
+    19.8,
+    93.7,
+    72.7,
+    53.6,
+    3.5,
+    323.7,
+    300.3,
+    1323.1,
+    1984.3,
+    9458.4,
+    7545.8,
+    169.8,
+    0.1,
+    220,
+    null,
+    6550,
+    4821.8,
+    8574.5,
+    7713.9,
+    31826.7,
+    27015
+  ],
+  "status": {
+    "4": "..",
+    "9": "..",
+    "14": "..",
+    "15": "..",
+    "35": ".."
+  },
+  "role": {},
+  "version": "2.0",
+  "extension": {
+    "px": {
+      "decimals": 1
+    }
+  }
+}
